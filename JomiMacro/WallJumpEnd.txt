@@ -1,0 +1,15 @@
+➤ ☗ | ↓ ↑ ♦
+☗name WallJumpEnd 
+☗callid WallJumpEnd
+☗description WallJumpEnd 
+0♦sc:Space↓
+200♦sc:C↑ 
+300♦sc:Q↑ Z↑ S↑ D↑
+400♦sc:Space↑
+300♦sc:Q↑ Z↑ S↑ D↑
+500♦sc: S↓
+450♦sc: Space↓ 
+460♦sc:  Space↑
+600♦sc: S↑
+655♦sc: LeftClick↓
+660♦sc: LeftClick↑

@@ -1,0 +1,8 @@
+➤ ☗ | ↓ ↑ ♦
+☗name ApexEnemyDown
+☗callid ApexEnemyDown
+0♦sc:F↓  F↑ 
+50♦sc:Enter↓  Enter↑
+80♦sc:[[One enemy down.]]
+120♦sc:Enter↓  Enter↑
+

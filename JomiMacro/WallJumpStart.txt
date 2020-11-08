@@ -1,0 +1,9 @@
+➤ ☗ | ↓ ↑ ♦
+☗name WallJumpStart 
+☗callid WallJumpStart 
+☗description WallJumpStart 
+0♦sc:C↓ 
+50♦sc: G↓ 
+100♦sc:  G↑
+
+

@@ -1,0 +1,72 @@
+➤ ☗ |  ↓ ↑ ♦
+//MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗MinTime 1000 ☗MaxTime 3000 ☗LoopOnTrue 50 ☗LoopOnFalse 50 ☗TriggerOnRange
+        //MouseN + MouseO  ♦ Click↓ Click↑ ♦ ☗MinTime 1000 ☗MaxTime 3000 ☗LoopOnTrue 50  ☗TriggerOnRange ☗TriggerOutOfRange
+        //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗Time 500   ☗TriggerOnReleaseInRange  
+        //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗Time 100   ☗TriggerOnReleaseInRange 
+        //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗MinTime 1000 ☗MaxTime 3000 ☗LoopOnTrue 50 ☗LoopOnFalse 50 
+ //Jump ♦ A↓ A↑ ♦ ☗Time 500   ☗TriggerOnReleaseInRange  
+ //Crouch  ♦ B↓ B↑ ♦ ☗MinTime 1000 ☗MaxTime 3000  ☗TriggerOnRange ☗TriggerOutOfRange
+ 
+//Apex + !Pause+  Jump ♦ G↓ G↑  ♦ ☗Time 500  ☗TriggerOnRange  
+//Apex + !Pause+  Jump ♦  LeftClick↓  ♦ ☗Time 1500☗TriggerOnRange  
+//Apex + !Pause+  Jump ♦ LeftClick↑ ♦ ☗Time 2000   ☗TriggerOnReleaseInRange  
+Apex + !Pause +  Crouch  ♦ 3↓ 3↑ ♦ ☗Time 1000  ☗TriggerOnRange 
+Apex + !Pause +  Crouch  ♦ 5↓ 5↑ ♦ ☗Time 1800☗TriggerOnRange 
+Apex + !Pause +  Crouch  ♦ 7↓ 7↑ ♦ ☗Time 2200 ☗TriggerOnRange  
+
+
+
+Apex + !Pause +  FrontFootRelease ♦G↓ G↑   ♦ ☗Time 2500☗TriggerOnRange   
+Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 2500 ☗TriggerOnRange  
+Apex + !Pause +  FrontFootRelease ♦LeftClick↓ LeftClick↑   ♦ ☗Time 3000 ☗TriggerOnRange  
+Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 4000 ☗TriggerOnRange  
+Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 4500 ☗TriggerOnRange  
+Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 5000 ☗TriggerOnRange  
+Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 5500 ☗TriggerOnRange  
+Apex + !Pause +  FrontFootRelease ♦LeftClick↓ LeftClick↑   ♦ ☗Time 6000 ☗TriggerOnRange  
+
+Apex + !Pause +  !FrontFootRelease+ Caustic +  !Foot45LT ♦ A↓ A↑   ♦ ☗Time 250 ☗TriggerOnRange 
+Apex + !Pause +  !FrontFootRelease+ !Caustic+  !Foot45LT ♦ A↓ A↑   ♦ ☗Time 50 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease +  Caustic + !Foot45LT ♦ G↓ G↑   ♦ ☗Time 1150☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  Caustic + !Foot45LT ♦ G↓ G↑   ♦ ☗Time 1200☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 1500 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2500 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 3000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4500 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5500 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 6000 ☗TriggerOnRange  
+
+
+Apex + !Pause +  !FrontFootRelease+ Caustic +!Foot45RT ♦ W↓ W↑   ♦ ☗Time 250☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+ !Caustic+  !Foot45RT ♦ W↓ W↑   ♦ ☗Time 50☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦ LeftClick↓ LeftClick↑   ♦ ☗Time 900☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦ LeftClick↓ LeftClick↑   ♦ ☗Time 1150☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  Caustic + !Foot45RT ♦ G↓ G↑   ♦ ☗Time 1650☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  Horizon + !Foot45RT ♦ G↓ G↑   ♦ ☗Time 1000☗TriggerOnRange  
+//Apex + !Pause +  Caustic +!Foot45RT ♦ LeftClick↓ LeftClick↑ ♦ ☗Time 1800☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+   Horizon + !Foot45RT ♦ LeftClick↓ LeftClick↑ ♦ ☗Time 2000☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 1600 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2500 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 3000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4500 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5000 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5500 ☗TriggerOnRange  
+Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 6000 ☗TriggerOnRange
+  
+
+Apex + !Pause +  !Menu♦8↓ 8↑   ♦ ☗Time ☗TriggerOnRange 
+Apex + !Pause +  !Menu♦Tab↓ Tab↑   ♦ ☗Time 500☗TriggerOnRange 
+Apex + !Pause +  !Menu♦Escape↓ Escape↑   ♦ ☗Time 1500☗TriggerOnRange  
+Apex + !Pause +  !Menu♦M↓ M↑   ♦ ☗Time 1550☗TriggerOnRange
+Apex + !Pause +  !Menu♦Escape↓ Escape↑    ♦ ☗Time 1600☗TriggerOnReleaseInRange 
+
+
+//Apex + !Pause +  MoveLeft + MoveRight + MoveBackward ♦ Enter↓ Enter↑  [[We need to go back.]] Enter↓ Enter↑  ♦ ☗Time 1000☗TriggerOnRange  
+//Apex + !Pause +  !MoveLeft + MoveRight + MoveBackward ♦Enter↓ Enter↑  [[Hiding to Heal...]] Enter↓ Enter↑  ♦ ☗Time 2000☗TriggerOnRange  
+//Apex + !Pause +  MoveLeft + !MoveRight + MoveBackward ♦Enter↓ Enter↑  [[That smell bad, I am out.]] Enter↓ Enter↑  ♦ ☗Time 2000☗TriggerOnRange  
+	

@@ -1,0 +1,15 @@
+➤ ☗ | ↓ ↑ ♦
+☗name 10 Second Ninja 10: Level 1
+☗callid Ninja10Level1
+0♦sc:R↓ 
+100♦sc: R↑
+200♦sc: D↓ 
+800♦sc: D↑ 
+900♦sc: Right↓ 
+1000♦sc:  Right↑
+1100♦sc: Z↓ 
+1200♦sc: Z↑
+1300♦sc: Q↓ 
+1400♦sc: Q↑
+1500♦sc: Z↓ 
+1600♦sc: Z↑ 

@@ -1,0 +1,31 @@
+➤ ☗ | ↓ ↑ ♦
+
+Apex + !Pause + !BackFootRelease +SpamModeWeapon1 + !Pause + !Foot45LD ♦ C↓ C↑ F1↓ F1↑ RightClick↓ ♦ ☗TriggerOnTrue
+Apex + !Pause + !BackFootRelease + SpamModeWeapon1 + !Pause + Foot45LT + !Foot45LD ♦  LeftClick↓ LeftClick↑  ♦ ☗LoopOnTrue 40
+Apex + !Pause + !BackFootRelease + SpamModeWeapon1 + !Pause + Foot45LD ♦ RightClick↑ F2↓ F2↑ C↓ C↑ ♦ ☗TriggerOnTrue
+
+#Apex + !Pause +SpamModeWeapon2+ !Pause + !Foot45LT ♦  F2↓ F2↑ RightClick↓ ♦ ☗TriggerOnTrue
+#Apex + !Pause +SpamModeWeapon2+ !Pause + !Foot45LT + Foot45LD ♦  LeftClick↓ LeftClick↑ ♦ ☗LoopOnTrue 40
+#Apex + !Pause +SpamModeWeapon2+ !Pause + Foot45LT ♦ RightClick↑ ♦ ☗TriggerOnTrue
+
+
+	
+#Apex + !Pause  + !Foot45LT ♦  A↓ A↑  ♦ ☗TriggerOnTrue
+#Apex + !Pause + Foot45LT ♦  A↓ A↑♦ ☗TriggerOnTrue
+
+#Apex + SniperMode + !Pause + !Foot45LT ♦ F2↓ F2↑ RightClick↓  ♦ ☗TriggerOnTrue
+#Apex + SniperMode + !Pause + Foot45LT ♦ LeftClick↓ LeftClick↑ RightClick↑  C↓ C↑ ♦ ☗TriggerOnTrue
+
+Apex + !BackFootRelease + AimAndFireModeWeapon2 + !Pause + !Foot45RD ♦ C↓ C↑ F2↓ F2↑  RightClick↓  LeftClick↓ ♦ ☗TriggerOnTrue
+Apex + !BackFootRelease + AimAndFireModeWeapon2 + !Pause +  Foot45RD ♦ LeftClick↑  RightClick↑  C↓ C↑ ♦ ☗TriggerOnTrue
+
+Apex + BackFootRelease ♦ 3↓ 3↑  Shift↓ Shift↑ ♦ ☗TriggerOnTrue
+Apex + !Pause + !FrontFootRelease ♦   F2↓ F2↑  ♦ ☗TriggerOnTrue
+Apex + !Pause + FrontFootRelease ♦  Shift↓ Shift↑  ♦ ☗TriggerOnTrue
+
+Apex + !Pause + !FrontFootRelease  ♦  Shift↓ Shift↑  F2↓ F2↑  ♦ ☗TriggerOnTrue
+
+Apex + !Pause +  WAPin4 ♦ m↓ m↑  ♦ ☗TriggerOnTrue
+Apex + !Pause + !WAPin4  ♦ Escape↓ Escape↑ ♦ ☗TriggerOnTrue
+#MoveLeft↑ +  MoveRight↑ ♦ Escape↓ Escape↑  ♦ ☗TriggerOnTrue
+

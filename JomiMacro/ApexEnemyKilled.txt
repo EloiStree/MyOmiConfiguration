@@ -1,0 +1,15 @@
+➤ ☗ | ↓ ↑ ♦
+☗name Apex Enemy Killed
+☗callid ApexEnemyKilled
+0♦sc:F↓  F↑ 
+50♦sc:Enter↓  Enter↑
+80♦sc:[[One enemy killed. Badge end in 90]]
+120♦sc:Enter↓  Enter↑
+45000♦sc:Enter↓  Enter↑
+45050♦sc:[[One enemy killed. Badge end in 45]]
+45100♦sc:Enter↓  Enter↑
+
+75000♦sc:Enter↓  Enter↑
+75050♦sc:[[One enemy killed. Badge end in 15]]
+75100♦sc:Enter↓  Enter↑
+

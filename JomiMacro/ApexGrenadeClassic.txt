@@ -1,0 +1,12 @@
+➤ ☗ | ↓ ↑ ♦
+☗name Apex Grenade Classic
+☗callid ApexGrenadeClassic
+0♦sc:G↓ 
+650♦mm:0.9%:0.80%
+700♦sc: G↑
+1050♦mp:0
+1100♦mr:0	
+1650♦mp:0
+1700♦mr:0
+1850♦mp:0
+1900♦mr:0	

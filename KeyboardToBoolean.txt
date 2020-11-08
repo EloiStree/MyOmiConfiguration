@@ -1,0 +1,22 @@
+➤ ☗ | ↓ ↑ ♦
+Z  ♦ MoveForward
+S  ♦ MoveBackward
+Q  ♦ MoveLeft
+D  ♦ MoveRight
+Space ♦ Jump
+C ♦ Crouch
+Shift♦ Shift
+R♦ Reload		
+W♦ Ulti
+A♦ Power
+E♦ Use
+I♦ NextWeapon
+ScollUp♦ ScrollUp
+ScollDown♦ ScrollDown
+B♦ SwitchMode
+VK_Left♦Left
+VK_RIGHT♦Right
+T♦Talk
+N♦Menu
+Y♦BackSlide
+O♦WallJump

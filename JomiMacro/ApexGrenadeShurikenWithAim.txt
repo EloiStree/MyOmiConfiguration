@@ -1,0 +1,8 @@
+➤ ☗ | ↓ ↑ ♦
+☗name ApexGrenadeShurikenWithAim
+☗callid ApexGrenadeShurikenWithAim
+0♦sc:G↓ 
+650♦mm:0.1%:0.80%
+700♦sc: G↑
+1500♦mp:0
+2000♦mr:0		

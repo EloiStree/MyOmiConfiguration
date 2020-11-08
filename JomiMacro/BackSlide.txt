@@ -1,0 +1,12 @@
+➤ ☗ | ↓ ↑ ♦
+☗name BackSlide
+☗callid BackSlide
+☗description BackSlide
+0♦sc:Space↓
+300♦sc:Q↑  S↑ D↑
+500♦sc:Space↑
+600♦sc:Q↑ Z↑ D↑
+#600♦sc: S↓
+600♦sc:C↓
+700♦sc:C↑ 
+2000♦sc:Z↓ 

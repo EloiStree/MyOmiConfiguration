@@ -1,0 +1,15 @@
+➤ ☗ |  ↓ ↑ ♦
+FingerTip + FingerMiddle + FingerRoot ♦ HasFullFinger
+!FingerTip + !FingerMiddle + !FingerRoot ♦ HasNoFinger
+!FingerTip + !FingerMiddle + !FingerRoot ♦ PartlyUseFinger♦ ☗Inverse
+PaintTopLeftHand + PaintTopRightHand + PaintDownLeftHand + PaintDownRightHand ♦ HandAllButtonsDown 
+FingerTip + FingerMiddle+FingerRoot+ThumbUp+ThumbDown+Hand ♦ HandAllSensorsHide
+
+PaintDownLeftHand + PaintDownRightHand ♦ PaintDownHand
+PaintTopLeftHand + PaintTopRightHand  ♦ PaintUpHand
+PaintTopLeftHand + PaintDownLeftHand ♦ PaintLeftHand
+PaintTopRightHand + PaintDownRightHand ♦ PaintRightHand 
+!MoveForward + !MoveBackward  + !MoveLeft + !MoveRight ♦ IsNotMoving
+!Foot45LD + !Foot45LT +!Foot45RD +!Foot45RT♦ Pause
+!Foot45LD  + !Foot45RD ♦ BackFootRelease
+!Foot45LT  + !Foot45RT ♦ FrontFootRelease
