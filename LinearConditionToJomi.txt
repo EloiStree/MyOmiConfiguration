@@ -1,18 +1,6 @@
 ➤ ☗ |  ↓ ↑ ♦ §
-#!pause + Crouch↓ ➤ MouseN ➤ !MouseN ➤ MouseE➤ !MouseE  ➤ MouseS ➤ !MouseS➤ MouseO ➤ !MouseO♦ A↓ A↑ ♦ ☗BreakTime 20 ☗StepExitTime 500☗GlobalExitTime 2000 ☗TriggerOnFound ☗Cooldown 500
-#!pause  + Crouch↓➤ MouseN ➤ MouseO ➤ MouseS ➤ MouseE ➤ Shift♦ B↓ B↑ ♦☗BreakTime 20 ☗StepExitTime 500☗GlobalExitTime 2000 ☗TriggerOnFound ☗Cooldown 500
+#MouseN ➤ MouseE ➤ MouseS ➤ MouseO ♦ A↓ A↑ ♦  ☗StepExitTime 10000☗GlobalExitTime 4000
+
+#MouseN ➤ MouseO ➤ MouseS ➤ MouseE ♦ B↓ B↑ ♦ ☗StepExitTime 2000 ☗GlobalExitTime 3000
 #MouseN↓ ➤ MouseN↓ ➤ MouseN↓ ♦ Tab↓ Tab↑ ♦ ☗BreakTime 200 ☗StepExitTime 500 
 #MouseS↓ ➤ MouseS↓ ➤ MouseS↓ ♦ Tab↓ Tab↑ ♦ ☗BreakTime 200 ☗StepExitTime 500 
-# !pause +   Shift↓  ➤ MoveLeft↓ ➤MoveRight↓ ➤ MoveLeft↓ ➤ MoveRight↓ ♦ G↓ G↑ ♦ ☗BreakTime 500 ☗StepExitTime 1000☗GlobalExitTime 6000 ☗TriggerOnFound ☗Cooldown 500
-# !pause +   Shift↓   ➤Jump➤!Jump➤ Jump ♦ Enter↓ Enter↑ [[Double Click]]Enter↓ Enter↑  ♦ ☗BreakTime 100 ☗StepExitTime 1000 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-
-//!pause  +   Shift↓   ➤MouseN  ➤ MouseS➤MouseN  ➤ MouseS ➤ Shift↑ ♦ Enter↓ Enter↑ [[Yes.]]Enter↓ Enter↑ ♦ ☗BreakTime 100 ☗StepExitTime 500 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-//!pause +   Shift↓   ➤MouseO  ➤ MouseE➤MouseO ➤ MouseE ➤ Shift↑  ♦ Enter↓ Enter↑ [[No.]]Enter↓ Enter↑  ♦ ☗BreakTime 100 ☗StepExitTime 500 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
- apex+ !pause +MoveForward+ MoveLeft+MoveRight➤!MoveForward+ !MoveLeft +!MoveRight➤MoveForward+ MoveLeft +MoveRight ♦ Enter↓ Enter↑ [[Leroooooy JENKIINININNNINS!]]Enter↓ Enter↑  ♦ ☗BreakTime 100 ☗StepExitTime 1000 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-apex+  !pause + MoveBackward+ MoveLeft +MoveRight➤!MoveBackward+ !MoveLeft +!MoveRight➤MoveBackward+ MoveLeft +MoveRight ♦ Enter↓ Enter↑ [[We need to move back.]]Enter↓ Enter↑  ♦ ☗BreakTime 100 ☗StepExitTime 1000 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-
-apex+ !pause +  !MoveForward +!MoveBackward+ MoveLeft +MoveRight➤!MoveForward+!MoveBackward+ !MoveLeft +!MoveRight➤!MoveForward+!MoveBackward+ MoveLeft +MoveRight ♦ Enter↓ Enter↑ [[Healing...]]Enter↓ Enter↑  ♦ ☗BreakTime 100 ☗StepExitTime 1000 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-//!pause +  MoveForward + MoveLeft +!MoveRight➤!MoveForward + !MoveLeft +!MoveRight➤MoveForward + MoveLeft +!MoveRight➤!MoveForward + !MoveLeft +!MoveRight♦ Enter↓ Enter↑ [[One Down.]]Enter↓ Enter↑  ♦ ☗BreakTime 100 ☗StepExitTime 1000 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-//!pause +  MoveForward + !MoveLeft +MoveRight➤!MoveForward + !MoveLeft +!MoveRight➤MoveForward + !MoveLeft +MoveRight➤!MoveForward + !MoveLeft +!MoveRight♦ Enter↓ Enter↑ [[One Killed.]]Enter↓ Enter↑  ♦ ☗BreakTime 100 ☗StepExitTime 1000 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-apex+ !pause +  Crouch ➤!Crouch ➤Crouch ➤!Crouch➤Crouch ➤!Crouch♦ 3↓ 3↑♦ ☗BreakTime 100 ☗StepExitTime 1000 ☗GlobalExitTime 1000 ☗TriggerOnFound ☗Cooldown 500
-

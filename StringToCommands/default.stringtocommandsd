@@ -1,0 +1,9 @@
+#➤ ☗ |  ↓ ↑ ♦
+#CommandStartWith ♦ FollowingCommand1  ♦ FollowingCommand2 ♦ ...
+#aoe:gotofarm♦ jomiraw:sc:CTRL+I ♦ DebugLog Go To farm in AOE 
+#testtest♦ jomiraw:sc:D↓ D↑♦Wait 5000♦jomiraw:sc:E↓ E↑ 
+#testA♦ jomiraw:sc:D↓ D↑♦Wait 5000♦jomiraw:sc:E↓ E↑
+#testB♦ jomiraw:sc:D↓ D↑♦Wait 5000♦jomiraw:sc:E↓ E↑
+#testC♦ jomiraw:sc:D↓ D↑♦Wait 5000♦jomiraw:sc:E↓ E↑
+#d
+#

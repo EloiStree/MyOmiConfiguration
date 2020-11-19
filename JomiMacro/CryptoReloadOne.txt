@@ -1,8 +1,0 @@
-➤ ☗ | ↓ ↑ ♦
-☗name Reload one weapon of crypto
-☗callid CryptoReloadOne
-0♦sc:A↓ 
-60♦sc: A↑
-4500♦sc:A↓ 
-4650♦sc:A↑
-

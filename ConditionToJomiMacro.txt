@@ -1,17 +1,8 @@
 ➤ ☗ | ↓ ↑ ♦
-//Jump +  Shift  ♦ ApexSwitchArmor♦ ☗TriggerOnFalse
-//Apex + Crouch + Shift↓  ♦ ApexDropArmor ♦ ☗TriggerOnFalse
-//Apex + Crouch + Shift↓  ♦ CryptoReloadOne♦ ☗TriggerOnFalse
-//injwhawhaa + Shift  ♦ Ninja10Level1 ♦ ☗TriggerOnTrue
-//Apex + !Pause + WAPin0 ♦ ApexGrenadeFire♦ ☗TriggerOnTrue
-//Apex + !Pause + WAPin3 ♦ ApexEnemyKilled ♦ ☗TriggerOnTrue
-//Apex + !Pause + WAPin2 ♦ ApexEnemyDown ♦ ☗TriggerOnTrue
-//Apex + !Pause + Foot45RD ♦ ApexGrenadeFire♦ ☗TriggerOnTrue
-
-//Apex + !Pause +  Foot45RT↑ ♦ ApexGrenadeFire  ♦ ☗TriggerOnTrue
-//Apex + !Pause +  Foot45RT↓ ♦ ApexGrenadeShuriken  ♦ ☗TriggerOnTrue
-//Apex +  !Pause +  ScreenCornerRightTop ♦ ApexSwitchWeapon ♦ ☗TriggerOnTrue
-Apex + !Pause  + FrontFootRelease ♦ ApexGrenadeShurikenWithAim ♦   ☗TriggerOnTrue
-Apex + !Pause  + WallJump ♦WallJumpStart ♦   ☗TriggerOnTrue
-Apex + !Pause  + !WallJump ♦ WallJumpEnd ♦   ☗TriggerOnTrue
-Apex + !Pause  + BackSlide ♦BackSlide♦   ☗TriggerOnTrue
+//aoe + !Pause + UseCheatCode↓  ♦AoeCheatCode♦ ☗TriggerOnTrue
+//aoe + !Pause + Wololo↓  ♦ wololo ♦ ☗TriggerOnTrue
+//aoe + !Pause + Farm↓  ♦ addfarm ♦ ☗TriggerOnTrue
+//aoe + !Pause + SendAllTroop↓ ♦  sendalltroop ♦ ☗TriggerOnTrue
+//aoe + !Pause + wololo1↓  ♦ wololo1 ♦ ☗TriggerOnTrue
+//aoe + !Pause + wololo2↓  ♦ wololo2 ♦ ☗TriggerOnTrue
+//aoe + !Pause + wololo3↓  ♦ wololo3 ♦ ☗TriggerOnTrue

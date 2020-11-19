@@ -1,31 +1,69 @@
 ➤ ☗ | ↓ ↑ ♦
-
-Apex + !Pause + !BackFootRelease +SpamModeWeapon1 + !Pause + !Foot45LD ♦ C↓ C↑ F1↓ F1↑ RightClick↓ ♦ ☗TriggerOnTrue
-Apex + !Pause + !BackFootRelease + SpamModeWeapon1 + !Pause + Foot45LT + !Foot45LD ♦  LeftClick↓ LeftClick↑  ♦ ☗LoopOnTrue 40
-Apex + !Pause + !BackFootRelease + SpamModeWeapon1 + !Pause + Foot45LD ♦ RightClick↑ F2↓ F2↑ C↓ C↑ ♦ ☗TriggerOnTrue
-
-#Apex + !Pause +SpamModeWeapon2+ !Pause + !Foot45LT ♦  F2↓ F2↑ RightClick↓ ♦ ☗TriggerOnTrue
-#Apex + !Pause +SpamModeWeapon2+ !Pause + !Foot45LT + Foot45LD ♦  LeftClick↓ LeftClick↑ ♦ ☗LoopOnTrue 40
-#Apex + !Pause +SpamModeWeapon2+ !Pause + Foot45LT ♦ RightClick↑ ♦ ☗TriggerOnTrue
+#WAPin2 ♦ VK_DOWN↓ VK_DOWN↑ ♦ ☗LoopOnTrue 50
 
 
-	
-#Apex + !Pause  + !Foot45LT ♦  A↓ A↑  ♦ ☗TriggerOnTrue
-#Apex + !Pause + Foot45LT ♦  A↓ A↑♦ ☗TriggerOnTrue
 
-#Apex + SniperMode + !Pause + !Foot45LT ♦ F2↓ F2↑ RightClick↓  ♦ ☗TriggerOnTrue
-#Apex + SniperMode + !Pause + Foot45LT ♦ LeftClick↓ LeftClick↑ RightClick↑  C↓ C↑ ♦ ☗TriggerOnTrue
 
-Apex + !BackFootRelease + AimAndFireModeWeapon2 + !Pause + !Foot45RD ♦ C↓ C↑ F2↓ F2↑  RightClick↓  LeftClick↓ ♦ ☗TriggerOnTrue
-Apex + !BackFootRelease + AimAndFireModeWeapon2 + !Pause +  Foot45RD ♦ LeftClick↑  RightClick↑  C↓ C↑ ♦ ☗TriggerOnTrue
 
-Apex + BackFootRelease ♦ 3↓ 3↑  Shift↓ Shift↑ ♦ ☗TriggerOnTrue
-Apex + !Pause + !FrontFootRelease ♦   F2↓ F2↑  ♦ ☗TriggerOnTrue
-Apex + !Pause + FrontFootRelease ♦  Shift↓ Shift↑  ♦ ☗TriggerOnTrue
 
-Apex + !Pause + !FrontFootRelease  ♦  Shift↓ Shift↑  F2↓ F2↑  ♦ ☗TriggerOnTrue
 
-Apex + !Pause +  WAPin4 ♦ m↓ m↑  ♦ ☗TriggerOnTrue
-Apex + !Pause + !WAPin4  ♦ Escape↓ Escape↑ ♦ ☗TriggerOnTrue
-#MoveLeft↑ +  MoveRight↑ ♦ Escape↓ Escape↑  ♦ ☗TriggerOnTrue
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//o ♦ macro:aoe:CreateWalls♦  ☗TriggerOnTrue
+//// Move Group 1
+//aoe + !pause + OnlyFootRT♦ 2↓ 2↑ RightClick↓  RightClick↑   ♦  ☗TriggerOnTrue
+//aoe + !pause + OnlyFootRT♦  R↓  R↑  LeftClick↓  LeftClick↑ ♦☗TriggerOnFalse
+//
+//
+//// Move Group 2
+//aoe + !pause + OnlyFootLT♦ 1↓ 1↑ RightClick↓  RightClick↑ ♦  ☗TriggerOnTrue
+//aoe + !pause + OnlyFootLT♦ R↓  R↑   LeftClick↓  LeftClick↑♦☗TriggerOnFalse
+//
+//// Move Group Siege Foot
+////aoe + !pause + OnlyFootLD♦ 8↓ 8↑ ♦ ☗TriggerOnTrue
+////aoe + !pause + OnlyFootLD♦  T↓ T↑ LeftClick↓  LeftClick↑  Escape↓ Escape↑♦ ☗TriggerOnFalse
+//
+//// Move Group 3
+//aoe + !pause + OnlyFootLD♦ 3↓ 3↑ RightClick↓  RightClick↑ ♦  ☗TriggerOnTrue
+//aoe + !pause + OnlyFootLD♦ R↓  R↑  LeftClick↓  LeftClick↑ ♦☗TriggerOnFalse
+//
+//
+////Out for healing.
+//aoe + !pause + OnlyFootRD♦ Ctrl+0   ♦ ☗TriggerOnTrue
+//aoe + !pause + OnlyFootRD♦ RightClick↓  RightClick↑  9↓ 9↑ RightClick↓  RightClick↑  ♦ ☗TriggerOnTrue
+//
+//// Move Group 4
+////aoe + !pause + OnlyFootRD♦ 4↓ 4↑ RightClick↓  RightClick↑ ♦  ☗TriggerOnTrue
+////aoe + !pause + OnlyFootRD♦  RightClick↓  RightClick↑♦  ☗TriggerOnFalse
+//
+//aoe + !pause + PowerDown ♦  7↓  7↑ ⌛30 W↓  W↑ ⌛20 S↓ S↑⌛30  LeftClick↓ ⌛800 LeftClick↑ ♦  ☗TriggerOnTrue
+//
+//#
+//#aoe + !pause + NP0♦ 7↓  7↑ ⌛30 W↓  W↑ ⌛20 S↓ S↑⌛30  LeftClick↓ ⌛800 LeftClick↑ ♦ ☗TriggerOnTrue
+//#aoe + !pause + NP0♦ 7↓ ⌛20 7↑ ⌛20  W↓ ⌛20 W↑ ⌛20 S↓ ⌛20 S↑⌛20  LeftClick↓ ⌛20LeftClick↑ ♦ ☗TriggerOnTrue
+//#aoe + !pause + NP0♦ LeftClick↓ ⌛100
+//aoe + !pause + NP7♦ CTRL+Q ⌛30 Q↓ Q↑ ⌛30   ♦ ☗LoopOnTrue 200
+//aoe + !pause + NP4♦ CTRL+Q ⌛30 RightClick↓  RightClick↑ ♦ ☗LoopOnTrue 200
+//aoe + !pause + MorePeon♦ ⌛30 Q↓ Q↑ ♦ ☗LoopOnTrue 200 
+//Krita +  CustomRT♦ CTRL↓ ⌛50 X↓ ⌛50 X↑ ⌛50 CTRL↑ ⌛50   CTRL↓ ⌛50 V↓ ⌛50 V↑ CTRL↑  ⌛50  VK_PAGE_DOWN↓ ⌛50  VK_PAGE_DOWN↑ ♦ ☗TriggerOnTrue

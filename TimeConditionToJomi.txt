@@ -1,72 +1,237 @@
 ➤ ☗ |  ↓ ↑ ♦
+doom+CutAndFire♦macro:doom:cutandfire♦ ☗Time 50   ☗TriggerOnRange
+doom+Dash♦macro:doom:flame♦ ☗Time 300   ☗TriggerOnRange
+doom+Jump+Dash♦macro:doom:flame♦ ☗Time 250   ☗TriggerOnRange
+doom+Jump+Dash♦macro:doom:punch♦ ☗Time 400   ☗TriggerOnRange
+doom+!Jump+Dash♦macro:doom:flame♦ ☗Time 200   ☗TriggerOnRange
+doom+!Jump+Dash♦macro:doom:chainsaw♦ ☗Time 500   ☗TriggerOnRange
+doom+PowerSpam ♦ macro:doom:flameandallgrenade ♦ ☗Time 0   ☗TriggerOnRange
+
+doom+NP3 ♦ macro:doom:riflejump  ♦ ☗Time 0   ☗TriggerOnRange
+
+doom+GunGrab ♦ macro:doom:supershotgun ♦ ☗Time 0   ☗TriggerOnRange
+doom+GunGrab ♦ jomiraw:mp:r ♦ ☗Time 500   ☗TriggerOnRange
+doom+GunGrab ♦ jomiraw:sc:space↓ space↑ ♦ ☗Time 900   ☗TriggerOnRange
+doom+!GunGrab ♦ jomiraw:mr:r ♦ ☗Time 50   ☗TriggerOnRange
+doom+!GunGrab ♦ macro:doom:mainweapon ♦ ☗Time 150   ☗TriggerOnRange
+
+
+doom+Punch ♦ macro:doom:dash ♦ ☗Time 0   ☗TriggerOnRange
+doom+Punch ♦ macro:doom:flame ♦ ☗Time 150   ☗TriggerOnRange
+doom+Punch ♦ macro:doom:glorykill ♦ ☗Time 300   ☗TriggerOnRange
+
+
+doom+Map ♦ macro:doom:map ♦ ☗Time 50   ☗TriggerOnRange
+doom+!Map ♦ macro:doom:map ♦ ☗Time 50   ☗TriggerOnRange
+
+//doom +!CanonAsSniper+ Missiles ♦ macro:doom:canon ♦ ☗Time 400   ☗TriggerOnRange
+//doom +!CanonAsSniper+ Missiles ♦  jomiraw:mp:r ♦ ☗Time 450   ☗TriggerOnRange
+//doom +!CanonAsSniper+ Missiles ♦  jomiraw:mp:l ♦ ☗Time 500   ☗TriggerOnRange
+//doom +!CanonAsSniper+ !Missiles ♦  jomiraw:mr:l ♦ ☗Time 0   ☗TriggerOnRange
+//doom +!CanonAsSniper+ !Missiles ♦  jomiraw:mr:r ♦ ☗Time 0  ☗     TriggerOnRange
+//doom +!CanonAsSniper+ !Missiles ♦  macro:doom:mainweapon ♦ ☗Time 0  ☗TriggerOnRange
+//doom +CanonAsSniper+Missiles♦macro:doom:canon♦ ☗Time 10 ☗TriggerOnRange
+//doom +CanonAsSniper+Missiles♦macro:doom:noscope♦ ☗Time 10 ☗TriggerOnRange
+//doom +CanonAsSniper+!Missiles♦macro:doom:mainweapon♦ ☗Time 300 ☗TriggerOnRange
+doom+OnlyFootLDOff♦macro:doom:supershotgun♦ ☗Time 100 ☗TriggerOnRange
+doom+OnlyFootLDOff♦macro:doom:fire♦ ☗MinTime 200 ☗MaxTime 800 ☗TriggerOnReleaseInRange
+doom+OnlyFootLDOff♦macro:doom:startsecondary♦ ☗Time 800  ☗TriggerOnRange
+doom+!OnlyFootLDOff♦macro:doom:stopsecondary♦ ☗Time 0 ☗TriggerOnRange
+doom+!OnlyFootLDOff♦macro:doom:mainweapon♦ ☗Time 400 ☗TriggerOnRange
+
+
+
+doom+QuickGrenade ♦ macro:doom:shotgun ♦ ☗Time 0   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:mp:r ♦ ☗Time 50   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 400   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 600   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 800   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 1400   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 1600   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 1800   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 2400   ☗TriggerOnRancge
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 2600   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 2800   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 4400   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 4600   ☗TriggerOnRange
+doom+QuickGrenade ♦  jomiraw:ms:l ♦ ☗Time 4800   ☗TriggerOnRange
+doom+!QuickGrenade ♦ jomiraw:mr:r ♦ ☗Time 0   ☗TriggerOnRange
+doom+!QuickGrenade ♦ macro:doom:mainweapon ♦ ☗Time 50   ☗TriggerOnRange
+
+doom+SnipeRocket ♦ macro:doom:rocketsnipe ♦ ☗Time 450  ☗TriggerOnRange
+//doom+!AltMode+ SnipeRocket ♦ macro:doom:rocketsnipe ♦ ☗Time 50  ☗TriggerOnRange
+//doom+AltMode+ SnipeRocket ♦ macro:doom:rocketlock ♦ ☗Time 50  ☗TriggerOnRange
+doom+ !SnipeRocket ♦ macro:doom:mainweapon ♦ ☗Time 250   ☗TriggerOnRange
+
+doom+ SnipeLaser ♦ macro:doom:rifle ♦ ☗Time 400   ☗TriggerOnRange
+doom+ SnipeLaser ♦  jomiraw:mp:l ♦ ☗Time 450   ☗TriggerOnRange
+doom+ SnipeLaser ♦  jomiraw:mr:l ♦ ☗Time 1000   ☗TriggerOnRange
+doom+ !SnipeLaser ♦ jomiraw:mr:l ♦ ☗Time 50   ☗TriggerOnRange
+doom+ !SnipeLaser ♦ macro:doom:mainweapon ♦ ☗Time 50   ☗TriggerOnRange
+
+
+doom+ReleasePlasma ♦  macro:doom:releaseplasma ♦ ☗Time 0   ☗TriggerOnRange
+doom+!ReleasePlasma ♦  macro:doom:mainweapon ♦ ☗Time 50    ☗TriggerOnRange
+
+
+doom+Tatatata ♦ macro:doom:minigun ♦ ☗Time 400    ☗TriggerOnRange
+doom+Tatatata ♦ macro:doom:startsecondary ♦ ☗Time 420    ☗TriggerOnRange
+doom+Tatatata ♦ macro:doom:startfire ♦ ☗Time 450    ☗TriggerOnRange
+doom+!Tatatata ♦ macro:doom:stopsecondary ♦ ☗Time 0    ☗TriggerOnRange
+doom+!Tatatata ♦ macro:doom:stopfire ♦ ☗Time 0    ☗TriggerOnRange
+doom+!Tatatata ♦ macro:doom:mainweapon ♦ ☗Time 0    ☗TriggerOnRange
+
+doom+PlasmaSpam ♦ macro:doom:plasma ♦ ☗Time 250    ☗TriggerOnRange
+doom+PlasmaSpam ♦ macro:doom:startfire ♦ ☗Time 300    ☗TriggerOnRange
+doom+!PlasmaSpam ♦ macro:doom:stopfire ♦ ☗Time 0    ☗TriggerOnRange
+doom+!PlasmaSpam ♦ macro:doom:mainweapon  ♦ ☗Time 0    ☗TriggerOnRange
+
+doom+ Chainsaw ♦ macro:doom:flame ♦ ☗Time 0    ☗TriggerOnRange
+doom+ Chainsaw ♦ macro:doom:chainsaw ♦ ☗Time 200    ☗TriggerOnRange
+
+
+doom+!AltMode+Use ♦ macro:doom:punch  ♦ ☗Time 0    ☗TriggerOnRange
+doom+ AltMode+Use ♦ macro:doom:flame ♦ ☗Time 0    ☗TriggerOnRange
+doom+ AltMode+Use ♦ macro:doom:punch ♦ ☗Time 50    ☗TriggerOnRange
+
+//doom+ !OnlyFootLDOn♦ macro:doom:bfg ♦ ☗Time 200   ☗TriggerOnRange
+//doom+ OnlyFootLDOn♦  macro:doom:crucible ♦ ☗Time 200   ☗TriggerOnRange
+//doom+ !FootSlashL2RRelease♦ macro:doom:crucible ♦ ☗Time 0   ☗TriggerOnRange
+//doom+CutThemAll ♦ macro:doom:crucible ♦ ☗Time 0   ☗TriggerOnRange
+//doom+!CutThemAll ♦ macro:doom:mainweapon ♦ ☗Time 0   ☗TriggerOnRange
+//doom+ BringBFG ♦ macro:doom:bfg ♦ ☗Time 0   ☗TriggerOnRange
+//doom+ !BringBFG  ♦  macro:doom:mainweapon  ♦ ☗Time 50   ☗TriggerOnRange
+
+doom+FootSlashL2RRelease ♦macro:doom:flameandallgrenade ♦ ☗Time 200  ☗TriggerOnRange
+//doom+ !FootSlashR2LRelease ♦macro:doom:maraudeurstop♦ ☗Time 20   ☗TriggerOnRange
+doom+ BigWeapons♦macro:doom:crucible  ♦ ☗Time 200   ☗TriggerOnRange
+doom+ !BigWeapons♦ macro:doom:bfg ♦ ☗Time 600   ☗TriggerOnRange
+
+doom+!AltMode+Snipe♦ macro:doom:lasersnipe ♦ ☗Time 400   ☗TriggerOnRange
+//doom+!AltMode+Snipe♦ macro:doom:rocketsnipe ♦ ☗Time 800  ☗TriggerOnRange
+//doom+!AltMode+Snipe♦ macro:doom:lasersnipe ♦ ☗Time 1800  ☗TriggerOnRange
+//doom+!AltMode+Snipe♦ macro:doom:rocketsnipe ♦ ☗Time 2800  ☗TriggerOnRange
+//doom+!AltMode+Snipe♦ macro:doom:lasersnipe ♦ ☗Time 3800  ☗TriggerOnRange
+doom+ AltMode+Snipe♦ macro:doom:laser ♦ ☗Time 430   ☗TriggerOnRange
+doom+ AltMode+Snipe♦ macro:doom:startsecondary ♦ ☗Time 430   ☗TriggerOnRange
+doom+ AltMode+Snipe♦ macro:doom:fire ♦ ☗Time 1900   ☗TriggerOnRange
+doom+ AltMode+Snipe♦ macro:doom:stopsecondary ♦ ☗Time 2000   ☗TriggerOnRange
+doom+ AltMode+Snipe♦ macro:doom:rocketsnipe ♦ ☗Time 2400   ☗TriggerOnRange
+doom+ AltMode+Snipe♦ macro:doom:mainweapon ♦ ☗Time 3000   ☗TriggerOnRange
+doom+!Snipe♦ macro:doom:stopsecondary ♦ ☗Time 0   ☗TriggerOnRange
+doom+!Snipe♦ macro:doom:mainweapon ♦ ☗Time 0   ☗TriggerOnRange
+
+doom+NP9♦macro:doom:releaseplasma♦ ☗Time 20   ☗TriggerOnRange
+doom+NP9 ♦macro:doom:flame♦ ☗Time 0  ☗TriggerOnRange
+doom+!NP9 ♦macro:doom:mainweapon♦ ☗Time 600  ☗TriggerOnRange
+
+doom+PageUp♦macro:doom:rocket♦ ☗Time 0  ☗TriggerOnRange
+doom+PageUp♦macro:doom:rocketsnipe♦ ☗Time 500  ☗TriggerOnRange
+
+//doom+NP6♦macro:doom:doublegrenade♦ ☗Time 0 ☗TriggerOnRange
+doom+NP6♦macro:doom:dashattack♦ ☗Time 0 ☗TriggerOnRange
+
+
+doom+NP5♦macro:doom:theothergrenade♦ ☗Time 0 ☗TriggerOnRange
+doom+NP5♦jomi:g↓ g↑ ♦ ☗Time 1000 ☗TriggerOnRange
+
+
+
+doom+ShieldPause♦macro:doom:minigun♦ ☗Time 0 ☗TriggerOnRange
+doom+ShieldPause♦macro:doom:startsecondary ♦ ☗Time 10 ☗TriggerOnRange
+doom+!ShieldPause♦macro:doom:stopsecondary ♦ ☗Time 0 ☗TriggerOnRange
+doom+!ShieldPause♦macro:doom:mainweapon ♦ ☗Time 50 ☗TriggerOnRange
+
+doom+TopFootRelease♦macro:doom:rocketlock ♦ ☗Time 50 ☗TriggerOnRange
+
+doom+ReloadLevel♦macro:doom:reloadlevel♦ ☗Time 100 ☗TriggerOnRange
+
+doom+TakeBigSword♦macro:doom:crucible♦ ☗Time 1000 ☗TriggerOnRange
+
+doom+!TakeBigSword♦jomiraw:ms:l♦ ☗Time 0 ☗TriggerOnRange
+doom+!TakeBigSword♦macro:doom:rocket♦ ☗Time 800 ☗TriggerOnRange
+
+//doom+MoveOnlyBackward♦macro:doom:doubledashback♦ ☗Time 800 ☗TriggerOnRange
+
+//doom+DontMove♦macro:doom:map♦ ☗Time 5000 ☗TriggerOnRange
+//doom+FootSlashR2LRelease♦macro:doom:shotgun♦ ☗Time 20☗TriggerOnRange
+//doom+FootSlashR2LRelease♦macro:doom:bfg♦ ☗Time 5000 ☗TriggerOnRange
+//doom+FootSlashR2LRelease♦macro:doom:bfg♦ ☗Time 6000 ☗TriggerOnRange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗MinTime 1000 ☗MaxTime 3000 ☗LoopOnTrue 50 ☗LoopOnFalse 50 ☗TriggerOnRange
         //MouseN + MouseO  ♦ Click↓ Click↑ ♦ ☗MinTime 1000 ☗MaxTime 3000 ☗LoopOnTrue 50  ☗TriggerOnRange ☗TriggerOutOfRange
         //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗Time 500   ☗TriggerOnReleaseInRange  
         //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗Time 100   ☗TriggerOnReleaseInRange 
-        //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗MinTime 1000 ☗MaxTime 3000 ☗LoopOnTrue 50 ☗LoopOnFalse 50 
- //Jump ♦ A↓ A↑ ♦ ☗Time 500   ☗TriggerOnReleaseInRange  
- //Crouch  ♦ B↓ B↑ ♦ ☗MinTime 1000 ☗MaxTime 3000  ☗TriggerOnRange ☗TriggerOutOfRange
- 
-//Apex + !Pause+  Jump ♦ G↓ G↑  ♦ ☗Time 500  ☗TriggerOnRange  
-//Apex + !Pause+  Jump ♦  LeftClick↓  ♦ ☗Time 1500☗TriggerOnRange  
-//Apex + !Pause+  Jump ♦ LeftClick↑ ♦ ☗Time 2000   ☗TriggerOnReleaseInRange  
-Apex + !Pause +  Crouch  ♦ 3↓ 3↑ ♦ ☗Time 1000  ☗TriggerOnRange 
-Apex + !Pause +  Crouch  ♦ 5↓ 5↑ ♦ ☗Time 1800☗TriggerOnRange 
-Apex + !Pause +  Crouch  ♦ 7↓ 7↑ ♦ ☗Time 2200 ☗TriggerOnRange  
+      // aoe + !pause + PowerDown 
+ //MouseN + MouseO  ♦ Tab↓ Tab↑ ♦ ☗MinTime 1000 ☗MaxTime 3000 ☗LoopOnTrue 50 ☗LoopOnFalse 50 
+
+//Space♦macro:aoe:CreateWalls♦ ☗Time 50   ☗TriggerOnRange
+//Space♦jomi:W+S+LeftClick♦ ☗Time 50   ☗TriggerOnRange
+ //t♦jomi: 7↓ 7↑ ♦ ☗Time 50   ☗TriggerOnRange
+ //t♦Change camera background 120 120 120 ♦ ☗Time 200   ☗TriggerOnRange
+ //t♦Change camera background 250 0 0♦ ☗Time 1000   ☗TriggerOnRange
+ //t♦Change camera background 0 250 0♦ ☗Time 2000   ☗TriggerOnRange
+ //t♦Change camera background 0 0 250♦ ☗Time 3000   ☗TriggerOnRange
+ //t♦jomiraw:mm:0.5%:0.5%:♦ ☗Time 4000   ☗TriggerOnRange
+ //t♦debuglog Salut♦ ☗Time 5000   ☗TriggerOnRange
 
 
+//Save Screen And move backt
+//MouseO ♦macro:aoe:CheatSpeedBuild♦ ☗Time 2500 ☗TriggerOnRange
+//MouseE ♦macro:aoe:CheatResources♦ ☗Time 2500 ☗TriggerOnRange
+//!shift+t♦screenrec:s:default ♦ ☗Time 20☗TriggerOnRange
+//!shift+t♦screenrec:r:a ♦ ☗Time 50☗TriggerOnRange
+//!shift+t♦jomiraw:ms:l ♦ ☗Time 60☗TriggerOnRange
+//!shift+t♦screenrec:r:default ♦ ☗Time 100☗TriggerOnRange
+//shift+t♦screenrec:s:a♦ ☗Time 50☗TriggerOnRange
+//aoe + !pause + shift + NP1♦ 7↓ 7↑ ♦ ☗Time 50   ☗TriggerOnRange
+//aoe + !pause + NP1♦ Q↓ Q↑ ♦ ☗Time 100   ☗TriggerOnRangew
+//aoe + !pause + NP1♦ Q↓ Q↑ ♦ ☗Time 150   ☗TriggerOnRange
+//aoe + !pause + NP1♦ A↓ A↑ ♦ ☗Time 500 ☗TriggerOnRangeè
+//aoe + !pause + NP1♦ R↓ R↑ ♦ ☗Time 1000   ☗TriggerOnRange
+//
+//aoe + !pause + NP2♦ W↓ W↑ ⌛30 ♦ ☗Time 20☗TriggerOnRange 
+//aoe + !pause + NP2♦ S↓ S↑ ♦ ☗Time 50   ☗TriggerOnRange
+//aoe + !pause + NP2♦ W↓ W↑ ♦ ☗Time 500 ☗TriggerOnRange
+//aoe + !pause + NP2♦ A↓ A↑ ♦ ☗Time 1000   ☗TriggerOnRange
+//aoe + !pause + NP2♦ D↓ D↑ ♦ ☗Time 1500   ☗TriggerOnRange
+//aoe + !pause + NP2♦ F↓ F↑ ♦ ☗Time 2000   ☗TriggerOnRange
+//aoe + !pause + NP2♦ C↓ C↑ ♦ ☗Time 2500   ☗TriggerOnRange
+//
+//
+//aoe + !pause + NP3♦ W↓ W↑ ⌛30 ♦ ☗Time 20☗TriggerOnRange 
+//aoe + !pause + NP3♦ Q↓ Q↑ ♦ ☗Time 50   ☗TriggerOnRange
+//aoe + !pause + NP3♦ W↓ W↑ ♦ ☗Time 500 ☗TriggerOnRange
+//aoe + !pause + NP3♦ E↓ E↑ ♦ ☗Time 1000   ☗TriggerOnRange
+//aoe + !pause + NP3♦ R↓ R↑ ♦ ☗Time 1500   ☗TriggerOnRange
+//
+//aoe + !pause + !NP1♦ LeftClick↓ LeftClick↑ ♦ ☗Time 0  ☗TriggerOnRange
+//aoe + !pause + !NP2♦ LeftClick↓ LeftClick↑♦ ☗Time 0 ☗TriggerOnRange
+//aoe + !pause + !NP3♦ LeftClick↓ LeftClick↑♦ ☗Time 0 ☗TriggerOnRange
+//
+//
+//aoe + !pause + NP7♦ Q↓ Q↑ ⌛30 R↓ R↑  ♦ ☗Time 20☗TriggerOnRange 
+//aoe + !pause + NP7♦  LeftClick↓ LeftClick↑  ♦ ☗Time 500☗TriggerOnRange 
+//
+//aoe + !pause + NP4♦  Q↓ Q↑ ⌛30 S↓ S↑ ⌛30  LeftClick↓ LeftClick↑ ♦ ☗Time 20 ☗TriggerOnRange 
+//aoe + !pause + NP4♦  LeftClick↓ LeftClick↑ ♦ ☗Time 1000 ☗TriggerOnRange 
 
-Apex + !Pause +  FrontFootRelease ♦G↓ G↑   ♦ ☗Time 2500☗TriggerOnRange   
-Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 2500 ☗TriggerOnRange  
-Apex + !Pause +  FrontFootRelease ♦LeftClick↓ LeftClick↑   ♦ ☗Time 3000 ☗TriggerOnRange  
-Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 4000 ☗TriggerOnRange  
-Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 4500 ☗TriggerOnRange  
-Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 5000 ☗TriggerOnRange  
-Apex + !Pause +  FrontFootRelease♦LeftClick↓ LeftClick↑   ♦ ☗Time 5500 ☗TriggerOnRange  
-Apex + !Pause +  FrontFootRelease ♦LeftClick↓ LeftClick↑   ♦ ☗Time 6000 ☗TriggerOnRange  
-
-Apex + !Pause +  !FrontFootRelease+ Caustic +  !Foot45LT ♦ A↓ A↑   ♦ ☗Time 250 ☗TriggerOnRange 
-Apex + !Pause +  !FrontFootRelease+ !Caustic+  !Foot45LT ♦ A↓ A↑   ♦ ☗Time 50 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease +  Caustic + !Foot45LT ♦ G↓ G↑   ♦ ☗Time 1150☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  Caustic + !Foot45LT ♦ G↓ G↑   ♦ ☗Time 1200☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 1500 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2500 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 3000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4500 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5500 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45LT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 6000 ☗TriggerOnRange  
-
-
-Apex + !Pause +  !FrontFootRelease+ Caustic +!Foot45RT ♦ W↓ W↑   ♦ ☗Time 250☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+ !Caustic+  !Foot45RT ♦ W↓ W↑   ♦ ☗Time 50☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦ LeftClick↓ LeftClick↑   ♦ ☗Time 900☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦ LeftClick↓ LeftClick↑   ♦ ☗Time 1150☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  Caustic + !Foot45RT ♦ G↓ G↑   ♦ ☗Time 1650☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  Horizon + !Foot45RT ♦ G↓ G↑   ♦ ☗Time 1000☗TriggerOnRange  
-//Apex + !Pause +  Caustic +!Foot45RT ♦ LeftClick↓ LeftClick↑ ♦ ☗Time 1800☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+   Horizon + !Foot45RT ♦ LeftClick↓ LeftClick↑ ♦ ☗Time 2000☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 1600 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 2500 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 3000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 4500 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5000 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 5500 ☗TriggerOnRange  
-Apex + !Pause +  !FrontFootRelease+  !Foot45RT ♦LeftClick↓ LeftClick↑   ♦ ☗Time 6000 ☗TriggerOnRange
-  
-
-Apex + !Pause +  !Menu♦8↓ 8↑   ♦ ☗Time ☗TriggerOnRange 
-Apex + !Pause +  !Menu♦Tab↓ Tab↑   ♦ ☗Time 500☗TriggerOnRange 
-Apex + !Pause +  !Menu♦Escape↓ Escape↑   ♦ ☗Time 1500☗TriggerOnRange  
-Apex + !Pause +  !Menu♦M↓ M↑   ♦ ☗Time 1550☗TriggerOnRange
-Apex + !Pause +  !Menu♦Escape↓ Escape↑    ♦ ☗Time 1600☗TriggerOnReleaseInRange 
-
-
-//Apex + !Pause +  MoveLeft + MoveRight + MoveBackward ♦ Enter↓ Enter↑  [[We need to go back.]] Enter↓ Enter↑  ♦ ☗Time 1000☗TriggerOnRange  
-//Apex + !Pause +  !MoveLeft + MoveRight + MoveBackward ♦Enter↓ Enter↑  [[Hiding to Heal...]] Enter↓ Enter↑  ♦ ☗Time 2000☗TriggerOnRange  
-//Apex + !Pause +  MoveLeft + !MoveRight + MoveBackward ♦Enter↓ Enter↑  [[That smell bad, I am out.]] Enter↓ Enter↑  ♦ ☗Time 2000☗TriggerOnRange  
-	

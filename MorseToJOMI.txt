@@ -1,17 +1,6 @@
 ➤ ☗ | ↓ ↑ ♦
-#!Foot4PadLT♦ ... ♦ M↓ M↑ ♦ ☗ExitTime 1600☗LongTime 800 ☗TriggerOnExit
-#!Foot4PadLT♦ .. ♦ Tab↓ Tab↑ ♦ ☗ExitTime 1600☗LongTime 800 ☗TriggerOnExit
-#!Foot4PadLT♦ .... ♦ F3↓ F3↑ ♦ ☗ExitTime 1600☗LongTime 800 ☗TriggerOnExit
-#!Foot4PadLT♦ . ♦ 5↓ 5↑ ♦ ☗ExitTime 1600☗LongTime 400☗TriggerOnExit
-#!Foot4PadLT♦ - ♦ 6↓ 6↑ ♦ ☗ExitTime 1600☗LongTime 400☗TriggerOnExit
-#!Foot4PadLT♦ .. ♦ 7↓ 7↑ ♦ ☗ExitTime 1600☗LongTime 400☗TriggerOnExit
-#!Foot4PadLT♦ -- ♦ 8↓ 8↑ ♦ ☗ExitTime 1600☗LongTime 400☗TriggerOnExit
-Apex + !Foot45RT♦ .. ♦ G↓ G↑ ♦ ☗ExitTime 1200 ☗LongTime 400 ☗TriggerOnExit
-Apex + !Foot45RT♦ ... ♦ F3↓ F3↑ ♦ ☗ExitTime 1200 ☗LongTime 400 ☗TriggerOnExit
-#Apex + MoveBackward ♦ ... ♦ Enter↓ Enter↑ [[Back ! Move out ! Too dangerous!]] Enter↓ Enter↑♦ ☗ExitTime 1200 	☗LongTime 600☗TriggerOnExit 
-#Apex + MoveBackward ♦ .. ♦ Enter↓ Enter↑ [[Out for Healing!]] Enter↓ Enter↑♦   ☗ExitTime 1200☗LongTime 600☗TriggerOnExit
-#Apex + !MoveForward ♦ .. ♦ Enter↓ Enter↑ [[Yes.]] Enter↓ Enter↑ ♦   ☗ExitTime 1200☗LongTime 600☗TriggerOnExit
-#Apex + !MoveForward ♦ ... ♦ Enter↓ Enter↑ [[No.]] Enter↓ Enter↑ ♦   ☗ExitTime 1200☗LongTime 600☗TriggerOnExit
-#Apex + !MoveForward ♦ .... ♦ Enter↓ Enter↑ [[Can't answer.]] Enter↓ Enter↑ ♦   ☗ExitTime 1200☗LongTime 600☗TriggerOnExit
-#Apex + !MoveForward ♦ ..... ♦ Enter↓ Enter↑ [[Leeroooooooooy Jenkins!]] Enter↓ Enter↑♦   ☗ExitTime 1200☗LongTime 600☗TriggerOnExit		
-#Apex + !MoveLeft + !MoveRight ♦ .. ♦Enter↓ Enter↑ [[I don't feel the move, can we change strag ?]] Enter↓ Enter↑♦   ☗ExitTime 1200☗LongTime 600☗TriggerOnExit
+#Jump ♦ ... ♦ M↓ M↑ ♦☗ExitTime 1500 ☗LongTime 800  ☗TriggerOnExit ☗ExitTime 2000
+#MoveLeft↓ + MoveRight↓+ MoveForward↓ ♦ .. ♦ H↓ H↑ ♦ ☗TriggerOnFound 
+#MoveLeft↓ + MoveRight↓+ MoveForward↓ ♦ ... ♦ B↓ B↑ ♦ ☗TriggerOnFound
+//t♦ ... ♦jomi:B↓ B↑ ♦ ☗TriggerOnFound
+                           

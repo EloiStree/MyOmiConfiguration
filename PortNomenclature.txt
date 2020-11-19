@@ -3,8 +3,7 @@
 <AnalogDigitalCompressConfig>
 
   <PortConnections>
-    <PortConnection portId="31" patternName="Foot 4+5 Simple Buttons" />
-    <PortConnection portId="21" patternName="Wood Adaptator" />
+    <PortConnection portId="20" patternName="Custom" />
   </PortConnections>
   <AnalogDigitalCompressPatterns>
     <AnalogDigitalCompressPattern name="Left Hand Pad V1" docUrl="">
@@ -54,4 +53,16 @@
       <digit index="7" label="Foot45BCenterDown" />
       </AnalogDigitalCompressPattern>
   </AnalogDigitalCompressPatterns>
+ <AnalogDigitalCompressPattern name="Custom" docUrl="">
+      <digit index="10" label="CustomRD" />
+      <digit index="9" label="CustomLT" />
+      <digit index="7" label="CustomRT" />
+      <digit index="8" label="CustomLD" />
+      <digit index="3" label="CustomAltLeft" />
+      <digit index="1" label="CustomAltRight" />
+      <digit index="2" label="CustomLeft" />
+      <digit index="0" label="CustomMidLeft" />
+      <digit index="6" label="CustomMidRight" />
+      <digit index="4" label="CustomRight" />
+    </AnalogDigitalCompressPattern>
 </AnalogDigitalCompressConfig>

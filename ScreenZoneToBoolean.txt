@@ -21,7 +21,5 @@ Square:0.5:1:0.5:1 ♦ ScreenRegionRightTop
 Square:0.0:0.5:0.0:0.5 ♦ ScreenRegionLeftDown
 Square:0.5:1:0.0:0.5 ♦ ScreenRegionRightDown
 
- 
 
- 
 
