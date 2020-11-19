@@ -55,13 +55,28 @@ doom:maraudeurstart♦In 1.5|macro:doom:supershotgun♦In 0.5|macro:doom:supersh
 doom:maraudeurstop♦jomiraw:tms:1300:mr:l♦jomiraw:mp:l♦In 0.1|macro:doom:rifle
 doom:rocketsnipe♦macro:doom:rocket♦jomiraw:tms:500:ms:l
 doom:lasersnipe♦macro:doom:rifle♦jomiraw:tms:500:ms:l
+doom:rocketsnipethenmain♦macro:doom:rocketsnipe♦In 0.6|macro:doom:mainweapon
+doom:lasersnipethenmain♦macro:doom:lasersnipe♦In 0.6|macro:doom:mainweapon
+doom:rocketlockthenmain♦macro:doom:rocketlock♦In 3.0|macro:doom:mainweapon
+doom:longlasersnipethenmain♦macro:doom:longlasersnipe♦In 3.0|macro:doom:mainweapon
 doom:doublesnipe♦macro:doom:rocketsnipe♦In 1.5|macro:doom:lasersnipe
 
 doom:doublegrenadeswitch♦jomi:Ctrl↓ Ctrl↑⌛300 Ctrl↓ Ctrl↑⌛100 G↓ G↑
 doom:doublegrenade♦jomi:Ctrl↓ Ctrl↑⌛900 Ctrl↓ Ctrl↑
 doom:theothergrenade♦jomiraw:sc: G↓ G↑ ⌛200 Ctrl↓ ⌛30 Ctrl↑ ⌛200 G↓ G↑
 doom:loadplasma♦macro:doom:plasma ♦ macro:doom:startfire♦ In 2.1 | macro:doom:stopfire ♦ In 2.2 | macro:doom:mainweapon
-doom:rocketlock♦macro:doom:rocket♦jomiraw:mp:r ♦jomiraw:tms:1600:ms:l ♦jomiraw:tms:2000:mr:r ♦ In 3.0 | macro:doom:mainweapon
+doom:rocketlock♦macro:doom:rocket♦jomiraw:mp:r ♦jomiraw:tms:1600:ms:l ♦jomiraw:tms:2000:mr:r 
 doom:doubledashback♦jomi: S↓ ⌛300 Shift↓ Shift↑ S↑⌛300 S↓ Shift↓ Shift↑ S↑ 
 doom:flameandallgrenade♦macro:doom:flame♦macro:doom:allgrenade
 doom:dashattack♦jomi: Ctrl↓ ctrl↑⌛200 Shift↓ Shift↑ ⌛300 Shift↓ Shift↑ ⌛200 E↓ E↑ 
+doom:supershot♦macro:doom:supershotgun♦jomiraw:tms:50:mp:l♦jomiraw:tms:400:mr:l
+doom:longlasersnipe♦macro:doom:laser♦jomiraw:tms:50:mp:r♦jomiraw:tms:50:mp:l♦jomiraw:tms:2200:mr:l♦jomiraw:tms:1800:ms:l♦jomiraw:tms:2500:mr:r
+doom:hook♦ macro:doom:supershotgun♦ jomiraw:tms:400:ms:r♦jomiraw:tms:700:sc:space↓ space↑
+doom:flameandreleaseplasma♦ macro:doom:flame♦ macro:doom:releaseplasma
+doom:oneshotgungrenade♦ macro:doom:shotgun♦jomiraw:tms:40:mp:r♦jomiraw:tms:500:ms:l ♦jomiraw:tms:800:mr:r
+
+doom:shieldpause♦macro:doom:shieldpausestart♦In 4.0s|macro:doom:shieldpauseend
+doom:shieldpausestart♦macro:doom:minigun♦In 100|macro:doom:startsecondary
+doom:shieldpauseend♦macro:doom:mainweapon ♦ macro:doom:stopsecondary 
+
+doom:flamingchainsaw♦macro:doom:flame ♦ macro:doom:chainsaw 

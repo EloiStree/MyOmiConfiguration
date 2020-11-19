@@ -1,20 +1,22 @@
 ➤ ☗ |  ↓ ↑ ♦
-OnlyFootRTOff♦SnipeRocket
-OnlyFootLTOff♦PlasmaSpam
-OnlyFootRDOff♦Snipe
-OnlyFootLDOff♦Missiles
+//OnlyFootRTOff♦SnipeRocket
+//OnlyFootLTOff♦PlasmaSpam
+//OnlyFootRDOff♦Snipe
+//OnlyFootLDOff♦Missiles
 
 
 
-MoveLeft+MoveRight♦TakeBigSword
+//MoveLeft+MoveRight♦TakeBigSword
 //FootSlashL2RRelease♦GunGrab
-FootSlashR2LRelease♦QuickGrenade
+//FootSlashR2LRelease♦QuickGrenade
 //TopFootRelease♦
-DownFootRelease♦ShieldPause
+//DownFootRelease♦ShieldPause
 //PageUp♦Tatatata
-NP1♦ReleasePlasma
-NP2♦CutThemAll
-NP3♦BringBFG
+!NP1+!NP2+!NP3+!NP4♦NoMode
+NP1♦ModeDash
+NP2♦ModeWeaponPlus
+NP3♦ModeLoop
+NP4♦ModeNoComba
 NPPoint♦Map
 NPMulti♦Use
 NP7♦CutAndFire

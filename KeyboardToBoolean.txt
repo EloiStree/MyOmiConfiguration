@@ -30,6 +30,12 @@ PageDown♦PageDown
 Home♦ReloadLevel
 End♦End
 AltGr♦HelloGuys
+Down♦Down
+Up♦Up
+I♦ScrollUp
+O♦ScrollDown
+Left♦Left
+Right♦Right
 NumPad0♦NP0
 NumPad1♦NP1
 NumPad2♦NP2
