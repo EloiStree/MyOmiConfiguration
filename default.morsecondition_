@@ -1,0 +1,16 @@
+➤ ☗ | ↓ ↑ ♦
+#Jump ♦ ... ♦ M↓ M↑ ♦☗ExitTime 1500 ☗LongTime 800  ☗TriggerOnExit ☗ExitTime 2000
+#MoveLeft↓ + MoveRight↓+ MoveForward↓ ♦ .. ♦ H↓ H↑ ♦ ☗TriggerOnFound 
+#MoveLeft↓ + MoveRight↓+ MoveForward↓ ♦ ... ♦ B↓ B↑ ♦ ☗TriggerOnFound
+//t♦ ... ♦jomi:B↓ B↑ ♦ ☗TriggerOnFound
+
+doom+ModeWeaponPlus♦..♦macro:doom:shotgun♦ ☗ExitTime 1500 ☗TriggerOnFound
+doom+MoveForward♦..♦macro:doom:chainsaw♦ ☗ExitTime 500 ☗TriggerOnFound
+doom+MoveBackward♦..♦macro:doom:flame♦ ☗ExitTime 500 ☗TriggerOnFound
+doom+NP7♦..♦macro:doom:laser♦ ☗ExitTime 500 ☗TriggerOnFound
+doom+NP7♦...♦macro:doom:rocket♦ ☗ExitTime 1000 ☗TriggerOnFound
+                           
+oom+ScrollDown♦..♦macro:doom:lasersnipe♦ ☗ExitTime 800 ☗TriggerOnExit
+doom+ScrollUp♦..♦macro:doom:rocketsnipe♦ ☗ExitTime 800 ☗TriggerOnExit
+oom+ScrollDown♦.♦macro:doom:longlasersnipethenmain♦ ☗ExitTime 800 ☗TriggerOnExit
+doom+ScrollUp♦.♦macro:doom:rocketlockthenmain♦ ☗ExitTime 800 ☗TriggerOnExit

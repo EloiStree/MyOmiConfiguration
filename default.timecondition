@@ -1,0 +1,8 @@
+➤ ☗ |  ↓ ↑ ♦
+
+break  ♦ keyrecord:playback ♦ ☗Time 0  ☗TriggerOnRange
+insert   ♦ keyrecord:start♦ ☗Time 0  ☗TriggerOnRange
+!insert   ♦ keyrecord:stop ♦ ☗Time 0   ☗TriggerOnRange
+!insert  ♦keyrecord:saveasfile:lastrecord ♦ ☗Time 0   ☗TriggerOnRange
+#!CustomLT  ♦keyrecord:playback ♦ ☗Time 0   ☗TriggerOnRange
+

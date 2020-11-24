@@ -1,0 +1,147 @@
+#➤ ☗ |  ↓ ↑♦ 
+aoe:SelectMilitaryInScreen♦ jomiraw:sc: Alt+Comma 
+aoe:GoToArchery♦ jomiraw:sc: CTRL+A ♦ debuglog Test
+aoe:GoToBarracks♦ jomiraw:sc: CTRL+B 
+aoe:GoToForge♦ jomiraw:sc: CTRL+S 
+aoe:GoToCastle♦ jomiraw:sc: CTRL+V 
+aoe:GoToDock♦ jomiraw:sc: CTRL+D 
+aoe:GoToKrepost♦ jomiraw:sc: CTRL+T 
+aoe:GoToLumber♦ jomiraw:sc: CTRL+Z 
+aoe:GoToMarket♦ jomiraw:sc: CTRL+M 
+aoe:GoToMill♦ jomiraw:sc: CTRL+I 
+aoe:GoToMiningCamp♦ jomiraw:sc: CTRL+G 
+aoe:GoToMonastery♦ jomiraw:sc: CTRL+Y 
+aoe:GoToSiege♦ jomiraw:sc: CTRL+K 
+aoe:GoToStable♦ jomiraw:sc: CTRL+L 
+aoe:GoToUniversity♦ jomiraw:sc: CTRL+U 
+aoe:GoToTown♦ jomiraw:sc: H 
+aoe:CreateOneAntiArcher♦ jomi:Shift+CTRL+A ⌛3000 W↓ ⌛30 W↑ 
+aoe:CreateOneAntiHorse♦ jomiraw:sc: Shift+CTRL+B ⌛30 W↓ W↑ 
+aoe:CreateOneFoodHorse♦ jomiraw:sc: Shift+CTRL+L ⌛30 Q↓ Q↑ 
+aoe:CreateGroupAntiArcher♦ jomiraw:sc: Shift+ CTRL+ A ⌛100 Shift+W  
+aoe:CreateGroupAntiHorse♦ jomiraw:sc: Shift+CTRL+B  ⌛100 Shift+W  
+aoe:CreateGroupFoodHorse♦ jomiraw:sc: Shift+CTRL+L  ⌛100 Shift+Q  
+aoe:CheatSpeedBuild♦ jomi: Enter↓ ⌛30 Enter↑ ⌛50 [[rowshep]] ⌛50 Enter↑ ⌛30 Enter↑ ♦ debuglog Cheat
+aoe:CheatResources♦ jomiraw:sc: Enter↓ ⌛30 [[aegis]] ⌛30 Enter↑ 
+aoe:CheatMap♦ jomiraw:sc: Enter↓ ⌛30 [[marco]] ⌛30 Enter↑ ⌛30 Enter↓ ⌛30 [[polo]] ⌛30 Enter↑  
+aoe:SetRallyArchery♦ jomiraw:sc: Shift+CTRL+A RightClick↓ RightClick↑ 
+aoe:SetRallyBarracks♦ jomiraw:sc: Shift+CTRL+B RightClick↓ RightClick↑ 
+aoe:SetRallyForge♦ jomiraw:sc: Shift+CTRL+S RightClick↓ RightClick↑ 
+aoe:SetRallyCastle♦ jomiraw:sc: Shift+CTRL+V RightClick↓ RightClick↑ 
+aoe:SetRallyDock♦ jomiraw:sc: Shift+TRL+D RightClick↓ RightClick↑ 
+aoe:SetRallyKrepost♦ jomiraw:sc: Shift+CTRL+T RightClick↓ RightClick↑ 
+aoe:SetRallyLumber♦ jomiraw:sc: Shift+CTRL+Z RightClick↓ RightClick↑ 
+aoe:SetRallyMarket♦ jomiraw:sc: Shift+CTRL+M RightClick↓ RightClick↑ 
+aoe:SetRallyMill♦ jomiraw:sc: Shift+CTRL+I RightClick↓ RightClick↑ 
+aoe:SetRallyMiningCamp♦ jomiraw:sc:Shift+ CTRL+G RightClick↓ RightClick↑ 
+aoe:SetRallyMonastery♦ jomiraw:sc: Shift+CTRL+Y RightClick↓ RightClick↑ 
+aoe:SetRallySiege♦ jomiraw:sc:Shift+ CTRL+K RightClick↓ RightClick↑ 
+aoe:SetRallyStable♦ jomiraw:sc:Shift+ CTRL+L RightClick↓ RightClick↑ 
+aoe:SetRallyUniversity♦ jomiraw:sc: Shift+CTRL+U RightClick↓ RightClick↑ 
+aoe:SetRallyTown♦ jomiraw:sc: Shift+H RightClick↓ RightClick↑ 
+aoe:CreateGroupCastle♦ jomiraw:sc: Shift+CTRL+V  ⌛100 Shift+Q 
+aoe:SellFood♦ jomiraw:sc: Ctrl↓ Shift↓  M↓ M↑ Shift↑ Ctrl↑  ⌛50 D↓ ⌛20 D↑ 
+aoe:SellWood♦ jomiraw:sc: Ctrl+Shift+M ⌛500 S↓ ⌛20 S↑ 
+aoe:SellStone♦ jomiraw:sc: Ctrl+Shift+M ⌛500 F↓ ⌛20 F↑ 
+aoe:BuyFood♦ jomiraw:sc: Ctrl+Shift+M ⌛500 C↓ ⌛20 C↑ 
+aoe:BuyWood♦ jomiraw:sc: Ctrl+Shift+M ⌛500 X↓ ⌛20 X↑ 
+aoe:BuyStone♦ jomiraw:sc: Ctrl+Shift+M  ⌛500 V↓ ⌛20 V↑ 
+aoe:SellSeveralFood♦ jomiraw:sc: Ctrl+Shift+M  Shift+D 
+aoe:SellSeveralWood♦ jomiraw:sc: Ctrl+Shift+M   Shift+S 
+aoe:SellSeveralStone♦ jomiraw:sc: Ctrl+Shift+M   Shift+F 
+aoe:BuySeveralFood♦ jomiraw:sc: Ctrl+Shift+M   Shift+C 
+aoe:BuySeveralWood♦ jomiraw:sc: Ctrl+Shift+M   Shift+X 
+aoe:BuySeveralStone♦ jomiraw:sc: Ctrl+Shift+M   Shift+V 
+aoe:UpgradeVillagerStrengh♦ jomiraw:sc: Ctrl+Shift+H  A↓ A↑ 
+aoe:UpgradeVillagerCarry♦ jomiraw:sc: Ctrl+Shift+H  S↓ S↑ 
+aoe:UpgradeSight♦ jomiraw:sc: Ctrl+Shift+H  D↓ D↑ 
+aoe:UpgradeRam♦ jomiraw:sc: Ctrl+Shift+K  A↓ A↑ 
+aoe:UpgradeMangonel♦ jomiraw:sc: Ctrl+Shift+K  S↓ S↑ 
+aoe:UpgradeScorpion♦ jomiraw:sc: Ctrl+Shift+K  D↓ D↑ 
+aoe:UpgradeBuildingStrenght♦ jomiraw:sc: Ctrl+Shift+U  Q↓ Q↑ 
+aoe:UpgradeVillagerBuildSpeed♦ jomiraw:sc: Ctrl+Shift+U  W↓ W↑ 
+aoe:UpgradeTowerFireArrow♦ jomiraw:sc: Ctrl+Shift+U  E↓ E↑ 
+aoe:UpgradeMissilesAccuracy♦ jomiraw:sc: Ctrl+Shift+U  R↓ R↑ 
+aoe:UpgradeChemistry♦ jomiraw:sc: Ctrl+Shift+U  T↓ T↑ 
+aoe:UpgradeSiegeRange♦ jomiraw:sc: Ctrl+Shift+U  A↓ A↑ 
+aoe:UpgradeTowerNoMinimum♦ jomiraw:sc: Ctrl+Shift+U  S↓ S↑ 
+aoe:UpgradeWallStenght♦ jomiraw:sc: Ctrl+Shift+U  D↓ D↑ 
+aoe:UpgradeTower♦ jomiraw:sc: Ctrl+Shift+U  F↓ F↑ 
+aoe:UpgradeTowerAttack♦ jomiraw:sc: Ctrl+Shift+U  G↓ G↑ 
+aoe:UpgradeMonkBuilding♦ jomiraw:sc: Ctrl+Shift+Y  W↓ W↑ 
+aoe:UpgradeMonkConverMonk♦ jomiraw:sc: Ctrl+Shift+Y  E↓ E↑ 
+aoe:UpgradeMonkSpeed♦ jomiraw:sc: Ctrl+Shift+Y  R↓ R↑ 
+aoe:UpgradeMonkHitPoint♦ jomiraw:sc: Ctrl+Shift+Y  A↓ A↑ 
+aoe:UpgradeMonkConvertResistance♦ jomiraw:sc: Ctrl+Shift+Y  S↓ S↑ 
+aoe:UpgradeMonkRegenSpeed♦ jomiraw:sc: Ctrl+Shift+Y  D↓ D↑ 
+aoe:UpgradeMonkRange♦ jomiraw:sc: Ctrl+Shift+Y  F↓ F↑ 
+aoe:UpgradeMonkKillConverted♦ jomiraw:sc: Ctrl+Shift+Y  Z↓ Z↑ 
+aoe:UpgradeMonkOneByGroup♦ jomiraw:sc: Ctrl+Shift+Y  X↓ X↑ 
+aoe:UpgradeBuildingHeal♦ jomiraw:sc: Ctrl+Shift+Y  C↓ C↑ 
+aoe:UpgradeCastleUnity♦ jomiraw:sc: Ctrl+Shift+V  A↓ A↑ 
+aoe:UpgradeCivSpecialityFeodal♦ jomiraw:sc: Ctrl+Shift+V  S↓ S↑ 
+aoe:UpgradeCivSpecialityImperial♦ jomiraw:sc: Ctrl+Shift+V  D↓ D↑ 
+aoe:UpgradeCastleHitPoint♦ jomiraw:sc: Ctrl+Shift+V  Z↓ Z↑ 
+aoe:UpgradeVillageBuildingAttack♦ jomiraw:sc: Ctrl+Shift+V  X↓ X↑ 
+aoe:UpgradeMilitaryRespawn♦ jomiraw:sc: Ctrl+Shift+V  C↓ C↑ 
+aoe:UpgradeSpy♦ jomiraw:sc: Ctrl+Shift+V  V↓ V↑ 
+aoe:UpgradeTraderSpeed♦ jomiraw:sc: Ctrl+Shift+M  W↓ W↑ 
+aoe:UpgradeMarketTribute♦ jomiraw:sc: Ctrl+Shift+M  E↓ E↑ 
+aoe:UpgradeMarketFee♦ jomiraw:sc: Ctrl+Shift+M  R↓ R↑ 
+aoe:UpgradeArcherAim♦ jomiraw:sc: Ctrl+Shift+A  Z↓ Z↑ 
+aoe:UpgradeArcher♦ jomiraw:sc: Ctrl+Shift+A  A↓ A↑ 
+aoe:UpgradeSkirmisher♦ jomiraw:sc: Ctrl+Shift+A  S↓ S↑ 
+aoe:UpgradeCavaleryArcher♦ jomiraw:sc: Ctrl+Shift+A  D↓ D↑ 
+aoe:UpgradeCavaleryArcherStat♦  jomiraw:sc: Ctrl+Shift+A  C↓ C↑ 
+aoe:UpgradeMeleeAttack♦  jomiraw:sc: Ctrl+Shift+S  Q↓ Q↑ 
+aoe:UpgradeInfantryArmor♦  jomiraw:sc: Ctrl+Shift+S  W↓ W↑ 
+aoe:UpgradeCavalryArmor♦  jomiraw:sc: Ctrl+Shift+S  E↓ E↑ 
+aoe:UpgradeArcherRange♦  jomiraw:sc: Ctrl+Shift+S  A↓ A↑ 
+aoe:UpgradeArcherArmor♦  jomiraw:sc: Ctrl+Shift+S  S↓ S↑ 
+aoe:UpgradeFarm♦  jomiraw:sc: Ctrl+Shift+I  Q↓ Q↑ 
+aoe:SwitchSeeding♦  jomiraw:sc: Ctrl+Shift+I  T↓ T↑ 
+aoe:SeedFarm♦  jomiraw:sc: Ctrl+Shift+I  R↓ R↑ 
+aoe:UpgradeSoldier♦  jomiraw:sc: Ctrl+Shift+B  A↓ A↑ 
+aoe:UpgradePike♦  jomiraw:sc: Ctrl+Shift+B  S↓ S↑ 
+aoe:UpgradeInfantryFoodCost♦  jomiraw:sc: Ctrl+Shift+B  Z↓ Z↑ 
+aoe:UpgradeInfantrySpeed♦  jomiraw:sc: Ctrl+Shift+B  X↓ X↑ 
+aoe:UpgradeInfantryDamageBuilding♦  jomiraw:sc: Ctrl+Shift+B  X↓ X↑ 
+aoe:UpgradeEagle♦  jomiraw:sc: Ctrl+Shift+B  R↓ R↑ 
+aoe:UpgradeWood♦  jomiraw:sc: Ctrl+Shift+Z  Q↓ Q↑ 
+aoe:UpgradeStone♦  jomiraw:sc: Ctrl+Shift+G  W↓ W↑ 
+aoe:UpgradeGold♦  jomiraw:sc: Ctrl+Shift+G  Q↓ Q↑ 
+aoe:UpgradeFood♦  jomiraw:sc: Ctrl+Shift+I  Q↓ Q↑ 
+aoe:Flare♦  jomiraw:sc: Alt+F 
+aoe:MapCombat♦  jomiraw:sc: Alt+C 
+aoe:MapNormal♦  jomiraw:sc: Alt+N 
+aoe:MapResource♦  jomiraw:sc: Alt+R 
+aoe:AIBuildMarket♦  jomiraw:sc: Enter↓ ⌛30 [[53]] ⌛30 Enter↑ ⌛200 Alt+F  
+aoe:AIBuildFortification♦  jomiraw:sc: Enter↓ ⌛30 [[50]] ⌛30 Enter↑ ⌛200 Alt+F  
+aoe:AIForwardBase♦  jomiraw:sc: Enter↓ ⌛30 [[49]] ⌛30 Enter↑ ⌛200 Alt+F  
+aoe:AIPleaseHelp♦  jomiraw:sc: Enter↓ ⌛30 [[48]] ⌛30 Enter↑   
+aoe:AIAttackHere♦  jomiraw:sc: Enter↓ ⌛30 [[47]] ⌛30 Enter↑ ⌛200 Alt+F  
+aoe:AIWhereIsArmy♦  jomiraw:sc: Enter↓ ⌛30 [[46]] ⌛30 Enter↑   
+aoe:AIFightWithMe♦  jomiraw:sc:  Enter↓ ⌛30 [[51]] ⌛30 Enter↑ 
+aoe:AIBuildWallBetween♦  jomiraw:sc:Enter↓ ⌛30 [[53]] ⌛30 Enter↑ 
+aoe:AINeedFood♦  jomiraw:sc:Enter↓ ⌛30 [[3]] ⌛30 Enter↑ 
+aoe:AINeedStone♦  jomiraw:sc:Enter↓ ⌛30 [[6]] ⌛30 Enter↑ 
+aoe:AINeedWood♦  jomiraw:sc:Enter↓ ⌛30 [[4]] ⌛30 Enter↑ 
+aoe:AINeedGold♦  jomiraw:sc:Enter↓ ⌛30 [[5]] ⌛30 Enter↑ 
+aoe:AINeedExtraResources♦  jomiraw:sc:Enter↓ ⌛30 [[38]] ⌛30 Enter↑ 
+aoe:AIBuildWonder♦  jomiraw:sc:Enter↓ ⌛30 [[37]] ⌛30 Enter↑ 
+aoe:AIWhatStrategy♦  jomiraw:sc:Enter↓ ⌛30 [[43]] ⌛30 Enter↑ 
+aoe:AIResourceCount♦  jomiraw:sc:Enter↓ ⌛30 [[44]] ⌛30 Enter↑ 
+aoe:ChatYes♦  jomiraw:sc:Enter↓ ⌛30 [[1]] ⌛30 Enter↑ 
+aoe:ChatNo♦  jomiraw:sc:Enter↓ ⌛30 [[2]] ⌛30 Enter↑ 
+aoe:ChatAh♦  jomiraw:sc:Enter↓ ⌛30 [[7]] ⌛30 Enter↑ 
+aoe:ChatOh♦  jomiraw:sc:Enter↓ ⌛30 [[8]] ⌛30 Enter↑ 
+aoe:ChatLOL♦  jomiraw:sc:Enter↓ ⌛30 [11]] ⌛30 Enter↑ 
+aoe:ChatBeRush♦  jomiraw:sc:Enter↓ ⌛30 [[12]] ⌛30 Enter↑ 
+aoe:ChatDontPoint♦  jomiraw:sc:Enter↓ ⌛30 [[15]] ⌛30 Enter↑ 
+aoe:ChatLongTimeNoSiege♦  jomiraw:sc:Enter↓ ⌛30 [[19]] ⌛30 Enter↑ 
+aoe:ChatNiceTown♦  jomiraw:sc:Enter↓ ⌛30 [[21]] ⌛30 Enter↑ 
+aoe:ChatQuitTouching♦  jomiraw:sc:Enter↓ ⌛30 [[22]] ⌛30 Enter↑ 
+aoe:Chat2H♦  jomiraw:sc:Enter↓ ⌛30 [[27]] ⌛30 Enter↑ 
+aoe:ChatWololo♦  jomiraw:sc:Enter↓ ⌛30 [[30]] ⌛30 Enter↑ 
+aoe:ChatBox♦  jomiraw:sc: F7↓ F7↑ 
+aoe:CreateWalls♦jomiraw:sc: W↓ ⌛10 W↑ ⌛10 S↓ ⌛10 S↑ ♦In 0.15|jomiraw:sc:shift↓    ♦In 0.3|jomiraw:ms:l ♦In 0.51|jomiraw:ma:0.1%:0.1%♦In 0.55|jomiraw:ms:l ♦In 1.11|jomiraw:ma:0.05%:0.05%♦In 1.15|jomiraw:ms:l ♦In 1.5|jomiraw:sc:shift↑

@@ -1,8 +1,0 @@
-➤ ☗ | ↓ ↑ ♦
-//aoe + !Pause + UseCheatCode↓  ♦AoeCheatCode♦ ☗TriggerOnTrue
-//aoe + !Pause + Wololo↓  ♦ wololo ♦ ☗TriggerOnTrue
-//aoe + !Pause + Farm↓  ♦ addfarm ♦ ☗TriggerOnTrue
-//aoe + !Pause + SendAllTroop↓ ♦  sendalltroop ♦ ☗TriggerOnTrue
-//aoe + !Pause + wololo1↓  ♦ wololo1 ♦ ☗TriggerOnTrue
-//aoe + !Pause + wololo2↓  ♦ wololo2 ♦ ☗TriggerOnTrue
-//aoe + !Pause + wololo3↓  ♦ wololo3 ♦ ☗TriggerOnTrue

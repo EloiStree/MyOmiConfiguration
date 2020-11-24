@@ -1,212 +1,173 @@
-  A,
-    B, 
-    C,
-    D,
-    E,
-    F,
-    G,
-    H,
-    I,
-    J,
-    K,
-    L,
-    M,
-    N,
-    O,
-    P,
-    Q,
-    R,
-    S,
-    T,
-    U,
-    V,
-    W,
-    X,
-    Y,
-    Z,
-    NumLock,
-    NumPad0,
-    NumPad1,
-    NumPad2,
-    NumPad3,
-    NumPad4,
-    NumPad5,
-    NumPad6,
-    NumPad7,
-    NumPad8,
-    NumPad9,
-    NumPadDecimal,
-    NumPadDivide,
-    NumPadMultiply,
-    NumPadSubstract,
-    NumPadAdd,
-    NumPadEnter,
-    NumPadPeriod,
-    NumPadEquals,
-    NumPadClear, AllClear, AC,
-    NumPadClearEntry, ClearEntry, CE,
-    NumpadMemoryAdd, MA,
-    NumpadMemoryClear, MC,
-    NumpadMemoryRecall, MR,
-    NumpadMemoryStore, MS,
-    NumpadMemorySubtract, MSub,
-    Alpha0,
-    Alpha1,
-    Alpha2,
-    Alpha3,
-    Alpha4,
-    Alpha5,
-    Alpha6,
-    Alpha7,
-    Alpha8,
-    Alpha9,
-
-    Up,
-    Down,
-    Right,
-    Left,
-
-    PageUp,
-    PageDown,
-    Home,
-    End,
-    Insert,
-    Delete, DEL,
-
-    F1,
-    F2,
-    F3,
-    F4,
-    F5,
-    F6,
-    F7,
-    F8,
-    F9,
-    F10,
-    F11,
-    F12,
-    F13,
-    F14,
-    F15,
-    F16,
-    F17,
-    F18,
-    F19,
-    F20,
-    F21,
-    F22,
-    F23,
-    F24,
-
-    WinUS_OEM_Comma,
-    WinUS_OEM_Period,
-    WinUS_OEM_Minus,
-    WinUS_OEM_PLUS,
-    WinUS_OEM_102_BackSlash,
-    WinUS_OEM_1_SemiColon,
-    WinUS_OEM_2_Slash,
-    WinUS_OEM_3_GraveAccent,
-    WinUS_OEM_4_LeftBracket,
-    WinUS_OEM_5_BackSlash,
-    WinUS_OEM_6_RightBlacket,
-    WinUS_OEM_7_Quote,
-
-    Space, SP,
-    CapsLock,
-    Backspace, BS,
-    Tab, HT,
-
-    Shift,
-    LeftShift,
-    RightShift,
-
-    Control,
-    LeftControl,
-    RightControl,
-
-    Menu,
-    Alt,
-    AltGr,
-    LeftAlt,
-    RightAlt,
-    ContextMenu,
-
-    Application,
-
-    Break,
-    ScrollLock,
-    Print,
-    PrintScreen,
-    Help,
-    SystemRequest,
-
-
-
-
-    MouseLeft,
-    MouseRight,
-    MouseMiddle,
-    MouseSupp1,
-    MouseSupp2,
-    MouseSupp3,
-
-
-
-    EndOfText, ETX,
-    Escape, ESC,
-    Null, NUL,
-    InformationSeparatorOne, US,
-    InformationSeparatorTwo, RS,
-    InformationSeparatorThree, GS,
-    InformationSeparatorFour, FS,
-    LineFeed, LF,
-    Return, Enter, CarriageReturn, CR,
-
-
-
-    Eject,
-    LaunchApplicationOne,
-    LaunchApplicationTwo,
-    LaunchMail,
-    Sleep, Power, WakeUp,
-
-
-    Select,
-    Execute,
-    Clear,
-    NextTrack,
-    PreviousTrack,
-    StopTrack,
-    Play,
-    Pause,
-    VolumeMute,
-    VolumeDown,
-    VolumeUp,
-    Zoom,
-
-    BrowserBack,
-    BrowserForward,
-    BrowserFavorites,
-    BrowserHome,
-    BrowserRefresh,
-    BrowserSearch,
-    BrowserStop,
-
-
-    Meta,
-    MetaLeft,
-    MetaRight,
-    LeftWindow,
-    RightWindow,
-    LeftCommand,
-    RightCommand,
-
-
-    Convert,
-    KanaMode,
-    Lang1,
-    Lang2,
-    Lang3,
-    Lang4,
-    Lang5,
-    NonConvert
+lbutton
+rbutton
+cancel
+mbutton
+xbutton1
+xbutton2
+back
+tab
+clear
+return
+shift
+control
+menu
+pause
+capital
+hangul
+hangul
+hangul
+junja
+final
+hanja
+hanja
+escape
+convert
+nonconvert
+accept
+modechange
+space
+prior
+next
+end
+home
+left
+up
+right
+down
+select
+print
+execute
+snapshot
+insert
+delete
+help
+vk_0
+vk_1
+vk_2
+vk_3
+vk_4
+vk_5
+vk_6
+vk_7
+vk_8
+vk_9
+vk_a
+vk_b
+vk_c
+vk_d
+vk_e
+vk_f
+vk_g
+vk_h
+vk_i
+vk_j
+vk_k
+vk_l
+vk_m
+vk_n
+vk_o
+vk_p
+vk_q
+vk_r
+vk_s
+vk_t
+vk_u
+vk_v
+vk_w
+vk_x
+vk_y
+vk_z
+lwin
+rwin
+apps
+sleep
+numpad0
+numpad1
+numpad2
+numpad3
+numpad4
+numpad5
+numpad6
+numpad7
+numpad8
+numpad9
+multiply
+add
+separator
+subtract
+decimal
+divide
+f1
+f2
+f3
+f4
+f5
+f6
+f7
+f8
+f9
+f10
+f11
+f12
+f13
+f14
+f15
+f16
+f17
+f18
+f19
+f20
+f21
+f22
+f23
+f24
+numlock
+scroll
+lshift
+rshift
+lcontrol
+rcontrol
+lmenu
+rmenu
+browser_back
+browser_forward
+browser_refresh
+browser_stop
+browser_search
+browser_favorites
+browser_home
+volume_mute
+volume_down
+volume_up
+media_next_track
+media_prev_track
+media_stop
+media_play_pause
+launch_mail
+launch_media_select
+launch_app1
+launch_app2
+oem_1
+oem_plus
+oem_comma
+oem_minus
+oem_period
+oem_2
+oem_3
+oem_4
+oem_5
+oem_6
+oem_7
+oem_8
+oem_102
+processkey
+packet
+attn
+crsel
+exsel
+ereof
+play
+zoom
+noname
+pa1
+oem_clear

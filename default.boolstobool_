@@ -1,0 +1,64 @@
+➤ ☗ |  ↓ ↑ ♦
+//OnlyFootRTOff♦SnipeRocket
+//OnlyFootLTOff♦PlasmaSpam
+//OnlyFootRDOff♦Snipe
+//OnlyFootLDOff♦Missiles
+
+
+
+//MoveLeft+MoveRight♦TakeBigSword
+//FootSlashL2RRelease♦GunGrab
+//FootSlashR2LRelease♦QuickGrenade
+//TopFootRelease♦
+//DownFootRelease♦ShieldPause
+//PageUp♦Tatatata
+!NP1+!NP2+!NP3+!NP4♦NoMode
+NP1♦ModeDash
+NP2♦ModeWeaponPlus
+NP3♦ModeLoop
+NP4♦ModeNoComba
+NPPoint♦Map
+NPMulti♦Use
+NP7♦CutAndFire
+NPDiv♦PowerSpam
+NP0♦ 
+NP4♦
+NP5♦
+NP6♦GunGrab 
+NP8♦
+NP9♦
+NPSub♦
+NPAdd♦
+NPEqual♦
+ctrl ♦
+shift ♦
+Space♦
+
+!CustomRD+!CustomLD+!CustomLT+!CustomRT♦AllFootRelease
+!CustomRD+!CustomLD+!CustomLT+!CustomRT♦Pause
+CustomRD+CustomLD+CustomLT+CustomRT♦ AllFootDown
+!CustomRD+!CustomRT ♦ RightFootRelease
+!CustomLD+!CustomLT ♦ LeftFootRelease
+!CustomLD+!CustomRD ♦ DownFootRelease
+!CustomLT+!CustomRT ♦ TopFootRelease
+!CustomRT+!CustomLD +CustomLT+CustomRD + ♦FootSlashR2LRelease
+!CustomLT+!CustomRD +CustomRT+CustomLD ♦FootSlashL2RRelease
+!CustomRD+!CustomLD+!CustomLT+!CustomRT ♦AllFootDown
+
+CustomRD+CustomLD+CustomLT+!CustomRT♦OnlyFootRTOff
+CustomRD+CustomLD+!CustomLT+CustomRT♦OnlyFootLTOff
+CustomRD+!CustomLD+CustomLT+CustomRT♦OnlyFootLDOff
+!CustomRD+CustomLD+CustomLT+CustomRT♦OnlyFootRDOff
+
+!CustomRD+!CustomLD+!CustomLT+CustomRT♦OnlyFootRTOn
+!CustomRD+!CustomLD+CustomLT+!CustomRT♦OnlyFootLTOn
+!CustomRD+CustomLD+!CustomLT+!CustomRT♦OnlyFootLDOn
+CustomRD+!CustomLD+!CustomLT+!CustomRT♦OnlyFootRDOn
+
+Jump♦AltMode
+MoveBackward+MoveForward+MoveLeft+MoveRight♦MoveAllDirecton
+!MoveBackward+!MoveForward+!MoveLeft+!MoveRight♦DontMove
+MoveBackward+!MoveForward+!MoveLeft+!MoveRight♦MoveOnlyBackward
+!MoveBackward+MoveForward+!MoveLeft+!MoveRight♦MoveOnlyForward
+!MoveBackward+!MoveForward+MoveLeft+!MoveRight♦MoveOnlyLeft
+!MoveBackward+!MoveForward+!MoveLeft+MoveRight♦MoveOnlyRight
