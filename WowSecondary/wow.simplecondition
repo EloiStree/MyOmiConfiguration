@@ -1,0 +1,31 @@
+
+xjlr ♦jomi:D↓ ♦ ☗TriggerOnTrue
+!xjlr ♦jomi:D↑ ♦ ☗TriggerOnTrue
+xjll ♦jomi:Q↓ ♦ ☗TriggerOnTrue
+!xjll ♦jomi:Q↑ ♦ ☗TriggerOnTrue
+xjlu ♦jomi:Z↓ ♦ ☗TriggerOnTrue
+!xjlu ♦jomi:Z↑ ♦ ☗TriggerOnTrue
+xjld ♦jomi:S↓ ♦ ☗TriggerOnTrue
+!xjld ♦jomi:S↑ ♦ ☗TriggerOnTrue
+
+xjrr ♦jomi:x↓ ♦ ☗TriggerOnTrue
+!xjrr ♦jomi:x↑ ♦ ☗TriggerOnTrue
+xjrl ♦jomi:w↓ ♦ ☗TriggerOnTrue
+!xjrl ♦jomi:w↑ ♦ ☗TriggerOnTrue
+xjru ♦jomi:Z↓ ♦ ☗TriggerOnTrue
+!xjru ♦jomi:Z↑ ♦ ☗TriggerOnTrue
+xjrd ♦jomi:S↓ ♦ ☗TriggerOnTrue
+!xjrd ♦jomi:S↑ ♦ ☗TriggerOnTrue
+
+XBD ♦jomi:1↓1↑ ♦ ☗TriggerOnTrue
+XBL ♦jomi:2↓2↑ ♦ ☗TriggerOnTrue
+XBU ♦jomi:4↓4↑ ⌛800 3↓3↑ ♦ ☗TriggerOnTrue
+XBR ♦jomi: 4↓4↑ ⌛800 7↓7↑ ⌛800 9↓9↑ ♦ ☗TriggerOnTrue
+XBR ♦In 1200|jomiraw:ms:l ♦ ☗TriggerOnTrue
+XSBL ♦jomi:Tab↓Tab↑ ♦ ☗TriggerOnTrue
+XSBR ♦loop:on:tabattack♦ ☗TriggerOnTrue
+XTR ♦loop:off:tabattack♦ ☗TriggerOnTrue
+XJL ♦jomimacro:collectmoney ♦ ☗TriggerOnTrue
+XJR ♦jomi:C↓C↑ ♦ ☗TriggerOnTrue
+Xstart ♦jomi:B↓B↑ ♦ ☗TriggerOnTrue
+Xmenu ♦jomi:h↓h↑ ♦ ☗TriggerOnTrue
