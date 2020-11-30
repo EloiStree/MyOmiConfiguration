@@ -1,8 +1,12 @@
 ➤ ☗ |  ↓ ↑ ♦
 
+space♦Ū💡♦ ☗Time 0  ☗TriggerOnRange
 break  ♦ keyrecord:playback ♦ ☗Time 0  ☗TriggerOnRange
 insert   ♦ keyrecord:start♦ ☗Time 0  ☗TriggerOnRange
 !insert   ♦ keyrecord:stop ♦ ☗Time 0   ☗TriggerOnRange
 !insert  ♦keyrecord:saveasfile:lastrecord ♦ ☗Time 0   ☗TriggerOnRange
 #!CustomLT  ♦keyrecord:playback ♦ ☗Time 0   ☗TriggerOnRange
 
+
+Xstart ♦jomi:O↓O↑ ♦ ☗Time 0   ☗TriggerOnRange
+Xstart ♦jomi:m↓m↑ ♦ ☗Time 1000   ☗TriggerOnRange
