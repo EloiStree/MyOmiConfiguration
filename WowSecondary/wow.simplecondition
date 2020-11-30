@@ -24,8 +24,15 @@ XBR ♦jomi: 4↓4↑ ⌛800 7↓7↑ ⌛800 9↓9↑ ♦ ☗TriggerOnTrue
 XBR ♦In 1200|jomiraw:ms:l ♦ ☗TriggerOnTrue
 XSBL ♦jomi:Tab↓Tab↑ ♦ ☗TriggerOnTrue
 XSBR ♦loop:on:tabattack♦ ☗TriggerOnTrue
-XTR ♦loop:off:tabattack♦ ☗TriggerOnTrue
+//XTR ♦loop:off:tabattack♦ ☗TriggerOnTrue
 XJL ♦jomimacro:collectmoney ♦ ☗TriggerOnTrue
 XJR ♦jomi:C↓C↑ ♦ ☗TriggerOnTrue
 Xstart ♦jomi:B↓B↑ ♦ ☗TriggerOnTrue
 Xmenu ♦jomi:h↓h↑ ♦ ☗TriggerOnTrue
+
+
+XAR ♦loop:off:tabattack♦ ☗TriggerOnTrue
+XAR ♦loop:off:lot♦ ☗TriggerOnTrue
+XAU ♦loop:on:tabattack♦ ☗TriggerOnTrue
+XAL ♦jomi:T↓T↑⌛100 F↓F↑♦ ☗TriggerOnTrue
+XAD ♦loop:on:lotsometime♦ ☗TriggerOnTrue
