@@ -6,6 +6,6 @@ wow:collectdeath ♦ jomimacro:collectmoney
 wow:sellallbags ♦ jomimacro:sellallbags
 wow:petfollow♦jomi:Shift+F2
 wow:brainlessspamattack♦jomi:Alt+0 ⌛100 Alt+1 ⌛100 Alt+2 ⌛100 Alt+3 ⌛100 Alt+4 ⌛100 Alt+5 ⌛100 Alt+6 ⌛100 Alt+7 ⌛100 Alt+8 ⌛100 
-wow:selectandattack♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:spamattack 
-wow:selectandattackaround♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:spamattack ♦ In 2000| macro:wow:turnabitleft
+wow:selectandattack♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:brainlessspamattack 
+wow:selectandattackaround♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:brainlessspamattack ♦ In 2000| macro:wow:turnabitleft
  
