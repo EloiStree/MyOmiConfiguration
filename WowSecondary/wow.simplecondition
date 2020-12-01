@@ -26,8 +26,10 @@ wow+XSBL ♦jomi:Tab↓Tab↑ ♦ ☗TriggerOnTrue
 wow+XSBR ♦loop:on:tabattack♦ ☗TriggerOnTrue
 //wow+XTR ♦loop:off:tabattack♦ ☗TriggerOnTrue
 wow+XJL ♦jomimacro:collectmoney ♦ ☗TriggerOnTrue
-wow+XJR ♦jomi:C↓C↑ ♦ ☗TriggerOnTrue
-wow+Xstart ♦jomi:B↓B↑ ♦ ☗TriggerOnTrue
+//wow+XJR ♦jomi:C↓C↑ ♦ ☗TriggerOnTrue
+wow+XJR ♦jomimacro:sellallbags ♦ ☗TriggerOnTrue
+
+wow+Xstart ♦jomi:B↓B↑ ♦ ☗TriggerOnTrue       
 wow+Xmenu ♦jomi:h↓h↑ ♦ ☗TriggerOnTrue
 
 wow+XAR ♦loop:off:tabattack♦ ☗TriggerOnTrue

@@ -2,8 +2,10 @@
 wow:turnabitleft♦jomi:x↓ ⌛200 x↑
 wow:selectnearenemy♦jomi:tab↓ tab↑
 wow:petattack♦jomi:Shift+F1
-wow:lot♦jomimacro:collectmoney
+wow:collectdeath ♦ jomimacro:collectmoney
+wow:sellallbags ♦ jomimacro:sellallbags
 wow:petfollow♦jomi:Shift+F2
-wow:spamattack♦jomi:Alt+0 ⌛800 Alt+1 ⌛800 Alt+2 ⌛800 Alt+3 ⌛800 Alt+4 ⌛800 Alt+5 ⌛800 Alt+6 ⌛800 Alt+7 ⌛800 Alt+8 ⌛800 
-wow:selectandattack♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:spamattack ♦ In 2000| xmacro:wow:turnabitleft
+wow:brainlessspamattack♦jomi:Alt+0 ⌛100 Alt+1 ⌛100 Alt+2 ⌛100 Alt+3 ⌛100 Alt+4 ⌛100 Alt+5 ⌛100 Alt+6 ⌛100 Alt+7 ⌛100 Alt+8 ⌛100 
+wow:selectandattack♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:spamattack 
+wow:selectandattackaround♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:spamattack ♦ In 2000| macro:wow:turnabitleft
  
