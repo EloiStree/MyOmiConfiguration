@@ -1,11 +1,136 @@
 ⌛ ➤ ☗ | ↓ ↑
 wow:turnabitleft♦jomi:x↓ ⌛200 x↑
-wow:selectnearenemy♦jomi:tab↓ tab↑
-wow:petattack♦jomi:Shift+F1
+wow:selectnearenemy♦jomi:E↓ E↑
+wow:petattack♦jomi:F1
 wow:collectdeath ♦ jomimacro:collectmoney
 wow:sellallbags ♦ jomimacro:sellallbags
-wow:petfollow♦jomi:Shift+F2
-wow:brainlessspamattack♦jomi:Alt+0 ⌛100 Alt+1 ⌛100 Alt+2 ⌛100 Alt+3 ⌛100 Alt+4 ⌛100 Alt+5 ⌛100 Alt+6 ⌛100 Alt+7 ⌛100 Alt+8 ⌛100 
+wow:petfollow♦jomi:F2
+wow:brainlessspamattack♦jomi:CTRL+0 ⌛1000 CTRL+1 ⌛1000 CTRL+2 ⌛1000 CTRL+3 ⌛1000 CTRL+4 ⌛20 CTRL+5 ⌛20 CTRL+6 ⌛20 CTRL+7 ⌛20 CTRL+8 ⌛20 CTRL+9 ⌛20 CTRL+p ⌛20 CTRL+o 
 wow:selectandattack♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:brainlessspamattack 
-wow:selectandattackaround♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:brainlessspamattack ♦ In 2000| macro:wow:turnabitleft
  
+
+
+
+//POWER
+wow:power0♦jomi:0↓ 0↑
+wow:power1♦jomi:1↓ 1↑
+wow:power2♦jomi:2↓ 2↑
+wow:power3♦jomi:3↓ 3↑
+wow:power4♦jomi:4↓ 4↑
+wow:power5♦jomi:5↓ 5↑
+wow:power6♦jomi:6↓ 6↑
+wow:power7♦jomi:7↓ 7↑
+wow:power8♦jomi:8↓ 8↑
+wow:power8♦jomi:9↓ 9↑
+wow:powersup1♦jomi:P↓ P↑
+wow:powersup2♦jomi:O↓ O↑
+wow:altpower0♦jomi:ctrl+0
+wow:altpower1♦jomi:ctrl+1
+wow:altpower2♦jomi:ctrl+2
+wow:altpower3♦jomi:ctrl+3
+wow:altpower4♦jomi:ctrl+4
+wow:altpower5♦jomi:ctrl+5
+wow:altpower6♦jomi:ctrl+6
+wow:altpower7♦jomi:ctrl+7
+wow:altpower8♦jomi:ctrl+8
+wow:altpower9♦jomi:ctrl+9
+wow:altpowersup1♦jomi:ctrl+P
+wow:altpowersup2♦jomi:ctrl+O
+
+wow:azerty0♦jomi:A↓ A↑
+wow:azerty1♦jomi:Z↓ Z↑
+wow:azerty2♦jomi:E↓ E↑
+wow:azerty3♦jomi:R↓ R↑
+wow:azerty4♦jomi:T↓ T↑
+wow:azerty5♦jomi:Y↓ Y↑
+wow:altazerty0♦jomi:ctrl+a
+wow:altazerty1♦jomi:ctrl+z
+wow:altazerty2♦jomi:ctrl+e
+wow:altazerty3♦jomi:ctrl+r
+wow:altazerty4♦jomi:ctrl+t
+wow:altazerty5♦jomi:ctrl+y
+
+
+wow:rightpower0♦jomi:NP0↓ NP0↑ 
+wow:rightpower1♦jomi:NP1↓ NP1↑
+wow:rightpower2♦jomi:NP2↓ NP2↑
+wow:rightpower3♦jomi:NP3↓ NP3↑
+wow:rightpower4♦jomi:NP4↓ NP4↑
+wow:rightpower5♦jomi:NP5↓ NP5↑
+wow:rightpower6♦jomi:NP6↓ NP6↑
+wow:rightpower7♦jomi:NP7↓ NP7↑
+wow:rightpower8♦jomi:NP8↓ NP8↑
+wow:rightpower9♦jomi:NP9↓ NP9↑
+wow:rightpowersup1♦jomi:NPSub↓ NPSub↑ 
+wow:rightpowersup2♦jomi:NPAdd↓ NPAdd↑  
+wow:altrightpower0♦jomi:ctrl+NP0
+wow:altrightpower1♦jomi:ctrl+NP1
+wow:altrightpower2♦jomi:ctrl+NP2
+wow:altrightpower3♦jomi:ctrl+NP3
+wow:altrightpower4♦jomi:ctrl+NP4
+wow:altrightpower5♦jomi:ctrl+NP5
+wow:altrightpower6♦jomi:ctrl+NP6
+wow:altrightpower7♦jomi:ctrl+NP7
+wow:altrightpower8♦jomi:ctrl+NP8
+wow:altrightpower9♦jomi:ctrl+NP9
+wow:altrightpowersup1♦jomi:ctrl+NPSub
+wow:altrightpowersup2♦jomi:ctrl+NPAdd
+
+
+
+/// Move
+
+wow:startmoveforward♦jomi:VK_UP↓ 
+wow:stopmoveforward♦jomi:VK_UP↑ 
+wow:startmovebackward♦jomi:VK_DOWN↓ 
+wow:stopmovebackward♦jomi:VK_DOWN↑ 
+
+wow:startmoveleft♦jomi:VK_PAGE_UP↓ 
+wow:stopmoveleft♦jomi:VK_PAGE_UP↑ 
+wow:startturnleft♦jomi:VK_LEFT↓ 
+wow:stopturnleft♦jomi:VK_LEFT↑ 
+
+wow:startmoveright♦jomi:VK_PAGE_DOWN↓ 
+wow:stopmoveright♦jomi:VK_PAGE_DOWN↑ 
+wow:startturnright♦jomi:VK_RIGHT↓ 
+wow:stopturnright♦jomi:VK_RIGHT↑ 
+wow:jump♦jomi:space↓ space↑ 
+wow:startjump♦jomi:space↓  
+wow:stopjump♦jomi:space↑ 
+
+
+
+//selection
+
+wow:forwardenemy♦jomi:E↓ E↑ 
+wow:startforwardenemy♦jomi:E↓  
+wow:stopforwardenemy♦jomi:E↑ 
+wow:nearenemy♦jomi:ctrl+E ctrl+E 
+
+wow:nearally♦jomi:T↓ T↑
+wow:follow♦jomi:F↓ F↑ 
+
+
+// classic
+wow:map♦jomi:m↓ m↑
+wow:quest♦jomi:q↓ q↑ 
+wow:powebook♦jomi:s↓ s↑ 
+wow:inventory♦jomi:i↓ i↑ 
+wow:equipment♦jomi:k↓ k↑ 
+wow:equipmentandbag♦jomi:k↓ k↑ i↓ i↑ 
+
+
+
+
+/// JOMI macro
+//wow:slow360♦jomimacro:
+//wow:fast360♦ jomimacro:
+//wow:instant360♦jomimacro: 
+wow:collectbodies♦jomimacro:spamclickcenter 
+wow:validatequest♦jomimacro:spamclickquest
+
+
+
+//VIEW
+wow:nextview♦jomi:VK_INSERT↓ VK_INSERT↑ 
+wow:previousview♦jomi:VK_DELETE↓ VK_DELETE↑ 

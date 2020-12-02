@@ -1,39 +1,164 @@
 
-wow+xjlr ♦jomi:D↓ ♦ ☗TriggerOnTrue
-wow+!xjlr ♦jomi:D↑ ♦ ☗TriggerOnTrue
-wow+xjll ♦jomi:Q↓ ♦ ☗TriggerOnTrue
-wow+!xjll ♦jomi:Q↑ ♦ ☗TriggerOnTrue
-wow+xjlu ♦jomi:Z↓ ♦ ☗TriggerOnTrue
-wow+!xjlu ♦jomi:Z↑ ♦ ☗TriggerOnTrue
-wow+xjld ♦jomi:S↓ ♦ ☗TriggerOnTrue
-wow+!xjld ♦jomi:S↑ ♦ ☗TriggerOnTrue
+wow+xjlr ♦macro:wow:startturnright ♦ ☗TriggerOnTrue
+wow+!xjlr ♦macro:wow:stopturnright ♦ ☗TriggerOnTrue
+wow+xjll ♦macro:wow:startturnleft ♦ ☗TriggerOnTrue
+wow+!xjll ♦macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+wow+xjlu ♦macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+wow+!xjlu ♦macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+wow+xjlu ♦macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+wow+!xjlu ♦macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+wow+xjld ♦macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+wow+!xjld ♦macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
 
-wow+xjrr ♦jomi:x↓ ♦ ☗TriggerOnTrue
-wow+!xjrr ♦jomi:x↑ ♦ ☗TriggerOnTrue
-wow+xjrl ♦jomi:w↓ ♦ ☗TriggerOnTrue
-wow+!xjrl ♦jomi:w↑ ♦ ☗TriggerOnTrue
-wow+xjru ♦jomi:Z↓ ♦ ☗TriggerOnTrue
-wow+!xjru ♦jomi:Z↑ ♦ ☗TriggerOnTrue
-wow+xjrd ♦jomi:S↓ ♦ ☗TriggerOnTrue
-wow+!xjrd ♦jomi:S↑ ♦ ☗TriggerOnTrue
+wow+xjrr ♦macro:wow:startmoveright ♦ ☗TriggerOnTrue
+wow+!xjrr ♦macro:wow:stopmoveright ♦ ☗TriggerOnTrue
+wow+xjrl ♦macro:wow:startmoveleft ♦ ☗TriggerOnTrue
+wow+!xjrl ♦macro:wow:stopmoveleft ♦ ☗TriggerOnTrue
 
-wow+XBD ♦jomi:1↓1↑ ♦ ☗TriggerOnTrue
-wow+XBL ♦jomi:2↓2↑ ♦ ☗TriggerOnTrue
-wow+XBU ♦jomi:4↓4↑ ⌛800 3↓3↑ ♦ ☗TriggerOnTrue
-wow+XBR ♦jomi: 4↓4↑ ⌛800 7↓7↑ ⌛800 9↓9↑ ♦ ☗TriggerOnTrue
-wow+XBR ♦In 1200|jomiraw:ms:l ♦ ☗TriggerOnTrue
-wow+XSBL ♦jomi:Tab↓Tab↑ ♦ ☗TriggerOnTrue
-wow+XSBR ♦loop:on:tabattack♦ ☗TriggerOnTrue
-//wow+XTR ♦loop:off:tabattack♦ ☗TriggerOnTrue
-wow+XJL ♦jomimacro:collectmoney ♦ ☗TriggerOnTrue
-//wow+XJR ♦jomi:C↓C↑ ♦ ☗TriggerOnTrue
-wow+XJR ♦jomimacro:sellallbags ♦ ☗TriggerOnTrue
+wow+xjru ♦macro:wow:startjump ♦ ☗TriggerOnTrue
+wow+!xjru ♦macro:wow:stopjump ♦ ☗TriggerOnTrue
 
-wow+Xstart ♦jomi:B↓B↑ ♦ ☗TriggerOnTrue       
-wow+Xmenu ♦jomi:h↓h↑ ♦ ☗TriggerOnTrue
+wow+xjrd ♦macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+wow+!xjrd ♦macro:wow:endforwardenemy  ♦ ☗TriggerOnTrue
 
-wow+XAR ♦loop:off:tabattack♦ ☗TriggerOnTrue
-wow+XAR ♦loop:off:lotsometime♦ ☗TriggerOnTrue
-wow+XAU ♦loop:on:tabattack♦ ☗TriggerOnTrue
-wow+XAL ♦jomi:T↓T↑⌛100 F↓F↑♦ ☗TriggerOnTrue
-wow+XAD ♦loop:on:lotsometime♦ ☗TriggerOnTrue
+wow+xjl ♦macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+wow+!xjl ♦macro:wow:endforwardenemy  ♦ ☗TriggerOnTrue
+
+
+wow+!xTL+!xTR+!XSBL+!XSBR +XBD ♦macro:wow:power0 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+!XSBR +XBL ♦macro:wow:power1 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+!XSBR +XBR ♦macro:wow:power2 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+!XSBR +XBU ♦macro:wow:power3 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+!XSBR +Xstart ♦macro:wow:map ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+!XSBR +Xback ♦macro:wow:quest ♦ ☗TriggerOnTrue
+
+wow+xTL+!xTR+!XSBL+!XSBR +XBD ♦macro:wow:power4 ♦ ☗TriggerOnTrue
+wow+xTL+!xTR+!XSBL+!XSBR +XBL ♦macro:wow:power5 ♦ ☗TriggerOnTrue
+wow+xTL+!xTR+!XSBL+!XSBR +XBR ♦macro:wow:power6 ♦ ☗TriggerOnTrue
+wow+xTL+!xTR+!XSBL+!XSBR +XBU ♦macro:wow:power8 ♦ ☗TriggerOnTrue
+wow+xTL+!xTR+!XSBL+!XSBR +Xstart ♦macro:wow:inventory ♦ ☗TriggerOnTrue
+wow+xTL+!xTR+!XSBL+!XSBR +Xback ♦macro:wow:equipmentandbag ♦ ☗TriggerOnTrue
+
+wow+!xTL+!xTR+!XSBL+XSBR +XBD ♦macro:wow:azerty0 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+XSBR +XBL ♦macro:wow:azerty1 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+XSBR +XBR ♦macro:wow:azerty3 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+XSBR +XBU ♦macro:wow:azerty2 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+XSBR +Xstart ♦macro:wow:azerty4 ♦ ☗TriggerOnTrue
+wow+!xTL+!xTR+!XSBL+XSBR +Xback ♦macro:wow:azerty5 ♦ ☗TriggerOnTrue
+
+wow+!xTL+xTR+!XSBL+!XSBR +XBD ♦macro:wow:altazerty0 ♦ ☗TriggerOnTrue
+wow+!xTL+xTR+!XSBL+!XSBR +XBL ♦macro:wow:altazerty1 ♦ ☗TriggerOnTrue
+wow+!xTL+xTR+!XSBL+!XSBR +XBR ♦macro:wow:altazerty3 ♦ ☗TriggerOnTrue
+wow+!xTL+xTR+!XSBL+!XSBR +XBU ♦macro:wow:altazerty2 ♦ ☗TriggerOnTrue
+wow+!xTL+xTR+!XSBL+!XSBR +Xstart ♦macro:wow:altazerty4 ♦ ☗TriggerOnTrue
+wow+!xTL+xTR+!XSBL+!XSBR +Xback ♦macro:wow:altazerty5 ♦ ☗TriggerOnTrue
+
+
+//GROUP OF BUTTONS Start
+
+!xTL+!xTR+XSBL+XSBR ♦bool:xtop:true♦ ☗TriggerOnTrue
+!xTL+!xTR+XSBL+XSBR ♦bool:xtop:false♦ ☗TriggerOnFalse
+
+xTL+xTR+!XSBL+!XSBR ♦bool:xdown:true♦ ☗TriggerOnTrue
+xTL+xTR+!XSBL+!XSBR ♦bool:xdown:false♦ ☗TriggerOnFalse
+
+xTL+!xTR+XSBL+!XSBR ♦bool:xsideleft:true♦ ☗TriggerOnTrue
+xTL+!xTR+XSBL+!XSBR ♦bool:xsideleft:false♦ ☗TriggerOnFalse
+
+!xTL+xTR+!XSBL+XSBR ♦bool:xsideright:true♦ ☗TriggerOnTrue
+!xTL+xTR+!XSBL+XSBR ♦bool:xsideright:false♦ ☗TriggerOnFalse
+
+xTL+xTR+XSBL+XSBR ♦bool:xallfront:true♦ ☗TriggerOnTrue
+xTL+xTR+XSBL+XSBR ♦bool:xallfront:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+!XSBL+!XSBR ♦bool:xnofront:true♦ ☗TriggerOnTrue
+!xTL+!xTR+!XSBL+!XSBR ♦bool:xnofront:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+XSBL+!XSBR ♦bool:requestmouse:true♦ ☗TriggerOnTrue
+!xTL+!xTR+XSBL+!XSBR ♦bool:requestmouse:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+XSBL+!XSBR ♦bool:xonlysbl:true♦ ☗TriggerOnTrue
+!xTL+!xTR+XSBL+!XSBR ♦bool:xonlysbl:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+!XSBL+XSBR ♦bool:xonlysbr:true♦ ☗TriggerOnTrue
+!xTL+!xTR+!XSBL+XSBR ♦bool:xonlysbr:false♦ ☗TriggerOnFalse
+
+xTL+!xTR+!XSBL+!XSBR ♦bool:xonlytl:true♦ ☗TriggerOnTrue
+xTL+!xTR+!XSBL+!XSBR ♦bool:xonlytl:false♦ ☗TriggerOnFalse
+
+!xTL+xTR+!XSBL+!XSBR ♦bool:xonlytr:true♦ ☗TriggerOnTrue
+!xTL+xTR+!XSBL+!XSBR ♦bool:xonlytr:false♦ ☗TriggerOnFalse
+
+//GROUP OF BUTTONS END
+
+
+wow+xsideleft+!xsideright+XBD ♦macro:wow:rightpower0 ♦ ☗TriggerOnTrue
+wow+xsideleft+!xsideright+XBL ♦macro:wow:rightpower1 ♦ ☗TriggerOnTrue
+wow+xsideleft+!xsideright+XBR ♦macro:wow:rightpower2 ♦ ☗TriggerOnTrue
+wow+xsideleft+!xsideright+XBU ♦macro:wow:rightpower3 ♦ ☗TriggerOnTrue
+wow+!xsideleft+xsideright+XBD ♦macro:wow:altrightpower0 ♦ ☗TriggerOnTrue
+wow+!xsideleft+xsideright+XBL ♦macro:wow:altrightpower1 ♦ ☗TriggerOnTrue
+wow+!xsideleft+xsideright+XBR ♦macro:wow:altrightpower2 ♦ ☗TriggerOnTrue
+wow+!xsideleft+xsideright+XBU ♦macro:wow:altrightpower3 ♦ ☗TriggerOnTrue
+
+
+
+
+requestmouse+Xstart ♦macro:wow:nextview ♦  ☗TriggerOnTrue
+requestmouse+Xback ♦macro:wow:previousview ♦  ☗TriggerOnTrue
+requestmouse+XBD ♦jomiraw:ms:l ♦  ☗TriggerOnTrue
+requestmouse+XBL ♦jomiraw:ms:r ♦  ☗TriggerOnTrue
+requestmouse+XAR ♦jomiraw:ma:30:0 ♦  ☗LoopOnTrue 5
+requestmouse+XAL ♦jomiraw:ma:-30:0 ♦  ☗LoopOnTrue 5
+requestmouse+XAU ♦jomiraw:ma:0:-30♦ ☗LoopOnTrue 5
+requestmouse+XAD ♦jomiraw:ma:0:30♦ ☗LoopOnTrue 5
+
+wow+xnofront+XAL↓200 ♦macro:wow:validatequest♦ ☗TriggerOnTrue
+wow+xnofront+XAU↓200 ♦macro:wow:collectbodies♦ ☗TriggerOnTrue
+wow+xnofront+XAR↓200 ♦jomi:escape↓ escape↑♦ ☗TriggerOnTrue
+
+
+wow+xnofront+xjl ♦keyrecord:play:keyrecordlast1♦ ☗TriggerOnTrue
+wow+xnofront+xjr ♦keyrecord:play:keyrecordlast2 ♦ ☗TriggerOnTrue
+
+
+
+wow+xtop+XBD ♦loop:on:tabattack♦ ☗TriggerOnTrue
+wow+xtop+XBU ♦loop:on:rotateAround♦ ☗TriggerOnTrue
+wow+xtop+XBL ♦loop:on:lotsometime♦ ☗TriggerOnTrue
+wow+xtop+Xback ♦loop:off:lotsometime♦ ☗TriggerOnTrue
+wow+xtop+Xback ♦loop:off:tabattack♦ ☗TriggerOnTrue
+wow+xtop+Xback ♦loop:off:rotateAround♦  ☗TriggerOnTrue
+
+
+wow+xtop+XAL ♦keyrecord:start♦  ☗TriggerOnTrueee
+wow+xtop+XAR ♦keyrecord:stop ♦ ☗TriggerOnTrue
+wow+xtop+XAD ♦keyrecord:saveasfile:keyrecordlast1.txt♦  ☗TriggerOnTrue
+wow+xtop+XAU ♦keyrecord:saveasfile:keyrecordlast2.txt♦  ☗TriggerOnTrue
+
+
+
+//i↓ i↑ 
+
+
+
+//wow+XSBL ♦jomi:Tab↓Tab↑ ♦ ☗TriggerOnTrue
+//wow+XSBR ♦loop:on:tabattack♦ ☗TriggerOnTrue
+//
+////wow+XTR ♦loop:off:tabattack♦ ☗TriggerOnTrue
+//wow+XJL ♦jomimacro:collectmoney ♦ ☗TriggerOnTrue
+////wow+XJR ♦jomi:C↓C↑ ♦ ☗TriggerOnTrue
+//wow+XJR ♦jomimacro:sellallbags ♦ ☗TriggerOnTrue
+//
+//wow+Xstart ♦jomi:B↓B↑ ♦ ☗TriggerOnTrue       
+//wow+Xmenu ♦jomi:h↓h↑ ♦ ☗TriggerOnTrue
+//
+//wow+XAR ♦loop:off:tabattack♦ ☗TriggerOnTrue
+//wow+XAR ♦loop:off:lotsometime♦ ☗TriggerOnTrue
+//wow+XAU ♦loop:on:tabattack♦ ☗TriggerOnTrue
+//wow+XAL ♦jomi:T↓T↑⌛100 F↓F↑♦ ☗TriggerOnTrue
+//wow+XAD ♦loop:on:lotsometime♦ ☗TriggerOnTrue
+
+//wow+A ♦macro:manger ♦ ☗TriggerOnTrue
+//wow+Shift+A ♦UDP ALL|macro:manger ♦ ☗TriggerOnTrue
+//wow+CTRL+A ♦UDP BOTS|macro:manger ♦ ☗TriggerOnTrue
