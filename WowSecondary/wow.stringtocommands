@@ -1,11 +1,11 @@
 ⌛ ➤ ☗ | ↓ ↑
-wow:turnabitleft♦jomi:x↓ ⌛200 x↑
-wow:selectnearenemy♦jomi:E↓ E↑
+wow:turnabitleft♦jomi:VK_Left↓ ⌛200 VK_Left↑
+wow:selectnearenemy♦jomi:VK_INSERT↓ VK_INSERT↑
 wow:petattack♦jomi:F1
 wow:collectdeath ♦ jomimacro:collectmoney
 wow:sellallbags ♦ jomimacro:sellallbags
 wow:petfollow♦jomi:F2
-wow:brainlessspamattack♦jomi:CTRL+0 ⌛1000 CTRL+1 ⌛1000 CTRL+2 ⌛1000 CTRL+3 ⌛1000 CTRL+4 ⌛20 CTRL+5 ⌛20 CTRL+6 ⌛20 CTRL+7 ⌛20 CTRL+8 ⌛20 CTRL+9 ⌛20 CTRL+p ⌛20 CTRL+o 
+wow:brainlessspamattack♦jomi:0↓ 0↑ ⌛200 1↓ 1↑ ⌛200 2↓ 2↑ ⌛200 3↓ 3↑ ⌛200 4↓ 4↑ ⌛200 5↓ 5↑ ⌛200 6↓ 6↑ ⌛200 7↓ 7↑ ⌛200 8↓ 8↑ ⌛200 9↓ 9↑ 
 wow:selectandattack♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:brainlessspamattack 
  
 
@@ -22,47 +22,48 @@ wow:power6♦jomi:6↓ 6↑
 wow:power7♦jomi:7↓ 7↑
 wow:power8♦jomi:8↓ 8↑
 wow:power8♦jomi:9↓ 9↑
-wow:powersup1♦jomi:P↓ P↑
-wow:powersup2♦jomi:O↓ O↑
-wow:altpower0♦jomi:ctrl+0
-wow:altpower1♦jomi:ctrl+1
-wow:altpower2♦jomi:ctrl+2
-wow:altpower3♦jomi:ctrl+3
-wow:altpower4♦jomi:ctrl+4
-wow:altpower5♦jomi:ctrl+5
-wow:altpower6♦jomi:ctrl+6
-wow:altpower7♦jomi:ctrl+7
-wow:altpower8♦jomi:ctrl+8
-wow:altpower9♦jomi:ctrl+9
-wow:altpowersup1♦jomi:ctrl+P
-wow:altpowersup2♦jomi:ctrl+O
+wow:powersup1♦jomi:NPSous↓ NPSous↑
+wow:powersup2♦jomi:NPAdd↓ NPAdd↑
+wow:altpower0♦jomi:NP0↓ NP0↑
+wow:altpower1♦jomi:NP1↓ NP1↑
+wow:altpower2♦jomi:NP2↓ NP2↑
+wow:altpower3♦jomi:NP3↓ NP3↑
+wow:altpower4♦jomi:NP4↓ NP4↑
+wow:altpower5♦jomi:NP5↓ NP5↑
+wow:altpower6♦jomi:NP6↓ NP6↑
+wow:altpower7♦jomi:NP7↓ NP7↑
+wow:altpower8♦jomi:NP8↓ NP8↑
+wow:altpower9♦jomi:NP9↓ NP9↑
+wow:altpowersup1♦jomi:NPMulti↓ NPMulti↑
+wow:altpowersup2♦jomi:NPDiv↓ NPDiv↑
 
-wow:azerty0♦jomi:A↓ A↑
-wow:azerty1♦jomi:Z↓ Z↑
-wow:azerty2♦jomi:E↓ E↑
-wow:azerty3♦jomi:R↓ R↑
-wow:azerty4♦jomi:T↓ T↑
-wow:azerty5♦jomi:Y↓ Y↑
-wow:altazerty0♦jomi:ctrl+a
-wow:altazerty1♦jomi:ctrl+z
-wow:altazerty2♦jomi:ctrl+e
-wow:altazerty3♦jomi:ctrl+r
-wow:altazerty4♦jomi:ctrl+t
-wow:altazerty5♦jomi:ctrl+y
+wow:azerty0♦jomi:Q↓ Q↑
+wow:azerty1♦jomi:S↓ S↑
+wow:azerty2♦jomi:D↓ D↑
+wow:azerty3♦jomi:F↓ F↑
+wow:azerty4♦jomi:G↓ G↑
+wow:azerty5♦jomi:H↓ H↑
+wow:altazerty0♦jomi:A↓ A↑
+wow:altazerty1♦jomi:Z↓ Z↑
+wow:altazerty2♦jomi:E↓ E↑
+wow:altazerty3♦jomi:R↓ R↑
+wow:altazerty4♦jomi:T↓ T↑
+wow:altazerty5♦jomi:Y↓ Y↑
 
 
-wow:rightpower0♦jomi:NP0↓ NP0↑ 
-wow:rightpower1♦jomi:NP1↓ NP1↑
-wow:rightpower2♦jomi:NP2↓ NP2↑
-wow:rightpower3♦jomi:NP3↓ NP3↑
-wow:rightpower4♦jomi:NP4↓ NP4↑
-wow:rightpower5♦jomi:NP5↓ NP5↑
-wow:rightpower6♦jomi:NP6↓ NP6↑
-wow:rightpower7♦jomi:NP7↓ NP7↑
-wow:rightpower8♦jomi:NP8↓ NP8↑
-wow:rightpower9♦jomi:NP9↓ NP9↑
-wow:rightpowersup1♦jomi:NPSub↓ NPSub↑ 
-wow:rightpowersup2♦jomi:NPAdd↓ NPAdd↑  
+wow:rightpower0♦jomi:F0↓ F0↑ 
+wow:rightpower1♦jomi:F1↓ F1↑
+wow:rightpower2♦jomi:F2↓ F2↑
+wow:rightpower3♦jomi:F3↓ F3↑
+wow:rightpower4♦jomi:F4↓ F4↑
+wow:rightpower5♦jomi:F5↓ F5↑
+wow:rightpower6♦jomi:F6↓ F6↑
+wow:rightpower7♦jomi:F7↓ F7↑
+wow:rightpower8♦jomi:F8↓ F8↑
+wow:rightpower9♦jomi:F9↓ F9↑
+wow:rightpower10♦jomi:F10↓ F10↑
+wow:rightpower11♦jomi:F11↓ F11↑
+wow:rightpower12♦jomi:F12↓ F12↑
 wow:altrightpower0♦jomi:ctrl+NP0
 wow:altrightpower1♦jomi:ctrl+NP1
 wow:altrightpower2♦jomi:ctrl+NP2

@@ -1,4 +1,21 @@
 
+
+footld♦bool:playersecondary:true ♦ ☗TriggerOnTrue
+footlt♦bool:playermain:true ♦ ☗TriggerOnTrue
+footld♦bool:playersecondary:false ♦ ☗TriggerOnFalse
+footlt♦bool:playermain:false ♦ ☗TriggerOnFalse
+
+footlt+footld♦bool:playerboth:true ♦ ☗TriggerOnTrue
+footlt+footld♦bool:playerboth:false ♦ ☗TriggerOnFalse
+
+
+!footlt♦udp CurrentComputer|jomi: T↓ T↑ F↓ F↑ Space↓ Space↑ ♦ ☗TriggerOnTrue
+!footlt♦debuglog Test♦ ☗TriggerOnTrue
+
+//!footlt♦udp all|jomi: T↓ T
+ F↓ F↑ Space↓ Space↑ ♦ ☗TriggerOnTrue
+
+
 wow+xjlr ♦macro:wow:startturnright ♦ ☗TriggerOnTrue
 wow+!xjlr ♦macro:wow:stopturnright ♦ ☗TriggerOnTrue
 wow+xjll ♦macro:wow:startturnleft ♦ ☗TriggerOnTrue
@@ -103,23 +120,18 @@ wow+!xsideleft+xsideright+XBU ♦macro:wow:altrightpower3 ♦ ☗TriggerOnTrue
 
 
 
-
 requestmouse+Xstart ♦macro:wow:nextview ♦  ☗TriggerOnTrue
 requestmouse+Xback ♦macro:wow:previousview ♦  ☗TriggerOnTrue
 requestmouse+XBD ♦jomiraw:ms:l ♦  ☗TriggerOnTrue
 requestmouse+XBL ♦jomiraw:ms:r ♦  ☗TriggerOnTrue
-requestmouse+XAR ♦jomiraw:ma:30:0 ♦  ☗LoopOnTrue 5
-requestmouse+XAL ♦jomiraw:ma:-30:0 ♦  ☗LoopOnTrue 5
-requestmouse+XAU ♦jomiraw:ma:0:-30♦ ☗LoopOnTrue 5
-requestmouse+XAD ♦jomiraw:ma:0:30♦ ☗LoopOnTrue 5
+requestmouse+XAR ♦jomiraw:ma:30:0 ♦  ☗LoopOnTrue 20
+requestmouse+XAL ♦jomiraw:ma:-30:0 ♦  ☗LoopOnTrue 20
+requestmouse+XAU ♦jomiraw:ma:0:-30♦ ☗LoopOnTrue 20
+requestmouse+XAD ♦jomiraw:ma:0:30♦ ☗LoopOnTrue 20
 
 wow+xnofront+XAL↓200 ♦macro:wow:validatequest♦ ☗TriggerOnTrue
 wow+xnofront+XAU↓200 ♦macro:wow:collectbodies♦ ☗TriggerOnTrue
 wow+xnofront+XAR↓200 ♦jomi:escape↓ escape↑♦ ☗TriggerOnTrue
-
-
-wow+xnofront+xjl ♦keyrecord:play:keyrecordlast1♦ ☗TriggerOnTrue
-wow+xnofront+xjr ♦keyrecord:play:keyrecordlast2 ♦ ☗TriggerOnTrue
 
 
 
@@ -130,8 +142,10 @@ wow+xtop+Xback ♦loop:off:lotsometime♦ ☗TriggerOnTrue
 wow+xtop+Xback ♦loop:off:tabattack♦ ☗TriggerOnTrue
 wow+xtop+Xback ♦loop:off:rotateAround♦  ☗TriggerOnTrue
 
+wow+xnofront+xjl ♦keyrecord:play:keyrecordlast1♦ ☗TriggerOnTrue
+wow+xnofront+xjr ♦keyrecord:play:keyrecordlast2 ♦ ☗TriggerOnTrue
 
-wow+xtop+XAL ♦keyrecord:start♦  ☗TriggerOnTrueee
+wow+xtop+XAL ♦keyrecord:start♦  ☗TriggerOnTrue
 wow+xtop+XAR ♦keyrecord:stop ♦ ☗TriggerOnTrue
 wow+xtop+XAD ♦keyrecord:saveasfile:keyrecordlast1.txt♦  ☗TriggerOnTrue
 wow+xtop+XAU ♦keyrecord:saveasfile:keyrecordlast2.txt♦  ☗TriggerOnTrue

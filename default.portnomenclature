@@ -54,10 +54,10 @@
       </AnalogDigitalCompressPattern>
   </AnalogDigitalCompressPatterns>
  <AnalogDigitalCompressPattern name="Custom" docUrl="">
-      <digit index="10" label="CustomRD" />
-      <digit index="9" label="CustomLT" />
-      <digit index="7" label="CustomRT" />
-      <digit index="8" label="CustomLD" />
+      <digit index="10" label="FootRD" />
+      <digit index="9" label= "FootLT" />
+      <digit index="7" label= "FootRT" />
+      <digit index="8" label= "FootLD" />
       <digit index="3" label="CustomAltLeft" />
       <digit index="1" label="CustomAltRight" />
       <digit index="2" label="CustomLeft" />

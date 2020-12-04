@@ -1,0 +1,168 @@
+
+  xjlr ♦udp p1|macro:wow:startturnright ♦ ☗TriggerOnTrue
+ !xjlr ♦udp p1|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+ xjll ♦udp p1|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+ !xjll ♦udp p1|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+ xjlu ♦udp p1|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+ !xjlu ♦udp p1|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+ xjlu ♦udp p1|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+ !xjlu ♦udp p1|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+ xjld ♦udp p1|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+ !xjld ♦udp p1|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+
+  xjrr ♦udp p2|macro:wow:startturnright ♦ ☗TriggerOnTrue
+ !xjrr ♦udp p2|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+  xjrl  ♦udp p2|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+ !xjrl ♦udp p2|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+  xjru  ♦udp p2|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+ !xjru ♦udp p2|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+  xjru  ♦udp p2|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+ !xjru ♦udp p2|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+  xjrd  ♦udp p2|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+ !xjrd ♦udp p2|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+
+
+//op1 +  xjlr ♦udp p1|macro:wow:startturnright ♦ ☗TriggerOnTrue
+//op1 + !xjlr ♦udp p1|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+//op1 + xjll ♦udp p1|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+//op1 + !xjll ♦udp p1|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+//op1 + xjlu ♦udp p1|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+//op1 + !xjlu ♦udp p1|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+//op1 + xjlu ♦udp p1|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+//op1 + !xjlu ♦udp p1|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+//op1 + xjld ♦udp p1|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+//op1 + !xjld ♦udp p1|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+//!op1  ♦In 150|udp p1|jomi:  VK_Left↑ VK_right↑ VK_up↑ VK_down↑ ♦ ☗TriggerOnTrue
+//
+//pall +  xjlr ♦udp all|macro:wow:startturnright ♦ ☗TriggerOnTrue
+//pall + !xjlr ♦udp all|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+//pall + xjll ♦udp all|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+//pall + !xjll ♦udp all|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+//pall + xjlu ♦udp all|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+//pall + !xjlu ♦udp all|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+//pall + xjlu ♦udp all|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+//pall + !xjlu ♦udp all|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+//pall + xjld ♦udp all|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+//pall + !xjld ♦udp all|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+//!pall  ♦In 150|udp all|jomi:  VK_Left↑ VK_right↑ VK_up↑ VK_down↑ ♦ ☗TriggerOnTrue
+//
+//
+//op2 +  xjlr ♦udp p2|macro:wow:startturnright ♦ ☗TriggerOnTrue
+//op2 + !xjlr ♦udp p2|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+//op2 +  xjll ♦udp p2|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+//op2 + !xjll ♦udp p2|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+//op2 +  xjlu ♦udp p2|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+//op2 + !xjlu ♦udp p2|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+//op2 +  xjlu ♦udp p2|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+//op2 + !xjlu ♦udp p2|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+//op2 +  xjld ♦udp p2|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+//op2 + !xjld ♦udp p2|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+//!op2  ♦In 150|udp p2|jomi:  VK_Left↑ VK_right↑ VK_up↑ VK_down↑ ♦ ☗TriggerOnTrue
+
+
+
+
+
+////////////////FOOT//////////
+footld♦bool:p1:false ♦ ☗TriggerOnTrue
+footld♦bool:p1:true ♦ ☗TriggerOnFalse
+footrd♦bool:p2:false ♦ ☗TriggerOnTrue
+footrd♦bool:p2:true ♦ ☗TriggerOnFalse
+
+p2+p1♦bool:pall:true ♦ ☗TriggerOnTrue
+p2+p1♦bool:pall:false ♦ ☗TriggerOnFalse
+p2+p1♦bool:pnone:false ♦ ☗TriggerOnTrue
+p2+p1♦bool:pnone:true ♦ ☗TriggerOnFalse
+!p2+p1♦bool:op1:true ♦ ☗TriggerOnTrue
+p2+!p1♦bool:op2:true ♦ ☗TriggerOnTrue
+!p2+p1♦bool:op1:false ♦ ☗TriggerOnFalse
+p2+!p1♦bool:op2:false ♦ ☗TriggerOnFalse
+
+
+
+////////////////////////////////////////
+///////////// Mouse debug
+requestmouse+Xstart ♦udp all|macro:wow:nextview ♦  ☗TriggerOnTrue
+requestmouse+Xback ♦udp all|macro:wow:previousview ♦  ☗TriggerOnTrue
+requestmouse+XAR ♦udp all|jomiraw:ma:8:0 ♦  ☗LoopOnTrue 30
+requestmouse+XAL ♦udp all|jomiraw:ma:-8:0 ♦  ☗LoopOnTrue 30
+requestmouse+XAU ♦udp all|jomiraw:ma:0:-8♦ ☗LoopOnTrue 30
+requestmouse+XAD ♦udp all|jomiraw:ma:0:8♦ ☗LoopOnTrue 30
+
+pnone+requestmouse+XBD ♦udp all|jomiraw:ms:l ♦  ☗TriggerOnTrue
+pnone+requestmouse+XBL ♦udp all|jomiraw:ms:r ♦  ☗TriggerOnTrue
+
+op1+requestmouse+XBD ♦udp p1|jomiraw:ms:l ♦  ☗TriggerOnTrue
+op1+requestmouse+XBL ♦udp p1|jomiraw:ms:r ♦  ☗TriggerOnTrue
+
+op2+requestmouse+XBD ♦udp p2|jomiraw:ms:l ♦  ☗TriggerOnTrue
+op2+requestmouse+XBL ♦udp p2|jomiraw:ms:r ♦  ☗TriggerOnTrue
+
+
+!requestmouse+ xal ♦udp all|macro:wow:validatequest♦  ☗TriggerOnTrue
+!requestmouse+ xau ♦udp all|macro:wow:collectbodies♦  ☗TriggerOnTrue
+!requestmouse+ xad ♦udp all|jomi: T↓ T↑ ⌛100 F↓ F↑  ♦  ☗TriggerOnTrue
+!requestmouse+ xar+ p1 ♦udp p1|jomi: Escape↓ ⌛100 Escape↑ ♦  ☗TriggerOnTrue
+!requestmouse+ xar+ p2 ♦udp p2|jomi: Escape↓ ⌛100 Escape↑ ♦  ☗TriggerOnTrue
+!requestmouse+ xar+ pnone ♦udp all|jomi: B↓  B↑ ♦  ☗TriggerOnTrue
+
+//!footlt+!footrt ♦udp all|macro:wow:map♦  ☗TriggerOnTrue
+//footlt+!footrt ♦udp all|macro:wow:rightpower0♦  ☗TriggerOnTrue
+//!footlt+footrt ♦udp all|macro:wow:massheal♦  ☗TriggerOnTrue
+
+
+xonlytr♦bool:startloop:true♦ ☗TriggerOnTrue
+xonlytr♦bool:startloop:false♦ ☗TriggerOnFalse
+//xonlytr♦bool:stoploop:true♦ ☗TriggerOnTrue
+//xonlytr♦bool:stoploop:false♦ ☗TriggerOnFalse
+
+startloop + xbd↓50 ♦ udp all|loop:on:tabattack♦  ☗TriggerOnTrue
+startloop + xbl↓50 ♦ udp all|loop:on:lotsometime♦  ☗TriggerOnTrue
+startloop + xbu↓50 ♦ udp p1|loop:on:rotateAround♦  ☗TriggerOnTrue
+startloop + xback↓50  ♦ udp all|loop:off:tabattack♦  ☗TriggerOnTrue
+startloop + xback↓50  ♦ udp all|loop:off:lotsometimek♦  ☗TriggerOnTrue
+startloop + xback↓50  ♦ udp all|loop:off:rotateAround♦  ☗TriggerOnTrue
+
+
+//xbd♦udp all|macro:wow:collectbodies♦  ☗TriggerOnTrue
+
+
+
+///////////////////////////////
+////////////////////////GROUP
+//GROUP OF BUTTONS Start
+
+!xTL+!xTR+XSBL+XSBR ♦bool:xtop:true♦ ☗TriggerOnTrue
+!xTL+!xTR+XSBL+XSBR ♦bool:xtop:false♦ ☗TriggerOnFalse
+
+xTL+xTR+!XSBL+!XSBR ♦bool:xdown:true♦ ☗TriggerOnTrue
+xTL+xTR+!XSBL+!XSBR ♦bool:xdown:false♦ ☗TriggerOnFalse
+
+xTL+!xTR+XSBL+!XSBR ♦bool:xsideleft:true♦ ☗TriggerOnTrue
+xTL+!xTR+XSBL+!XSBR ♦bool:xsideleft:false♦ ☗TriggerOnFalse
+
+!xTL+xTR+!XSBL+XSBR ♦bool:xsideright:true♦ ☗TriggerOnTrue
+!xTL+xTR+!XSBL+XSBR ♦bool:xsideright:false♦ ☗TriggerOnFalse
+
+xTL+xTR+XSBL+XSBR ♦bool:xallfront:true♦ ☗TriggerOnTrue
+xTL+xTR+XSBL+XSBR ♦bool:xallfront:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+!XSBL+!XSBR ♦bool:xnofront:true♦ ☗TriggerOnTrue
+!xTL+!xTR+!XSBL+!XSBR ♦bool:xnofront:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+XSBL+!XSBR ♦bool:requestmouse:true♦ ☗TriggerOnTrue
+!xTL+!xTR+XSBL+!XSBR ♦bool:requestmouse:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+XSBL+!XSBR ♦bool:xonlysbl:true♦ ☗TriggerOnTrue
+!xTL+!xTR+XSBL+!XSBR ♦bool:xonlysbl:false♦ ☗TriggerOnFalse
+
+!xTL+!xTR+!XSBL+XSBR ♦bool:xonlysbr:true♦ ☗TriggerOnTrue
+!xTL+!xTR+!XSBL+XSBR ♦bool:xonlysbr:false♦ ☗TriggerOnFalse
+
+xTL+!xTR+!XSBL+!XSBR ♦bool:xonlytl:true♦ ☗TriggerOnTrue
+xTL+!xTR+!XSBL+!XSBR ♦bool:xonlytl:false♦ ☗TriggerOnFalse
+
+!xTL+xTR+!XSBL+!XSBR ♦bool:xonlytr:true♦ ☗TriggerOnTrue
+!xTL+xTR+!XSBL+!XSBR ♦bool:xonlytr:false♦ ☗TriggerOnFalse
+
+//GROUP OF BUTTONS END
