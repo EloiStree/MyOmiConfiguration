@@ -1,0 +1,360 @@
+⌛ ➤ ☗ | ↓ ↑
+// LEXIC
+// PR = player left, PC = Player center , PL = Player right
+// All = all player , Main = pc , Remote= PR +PC
+//StART: CLAIMED BUTTON FOR MOUVEMENT
+  sxjlr♦udp pl|macro:wow:startturnright ♦ ☗TriggerOnTrue
+ !sxjlr♦udp pl|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+ sxjll ♦udp pl|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+ !sxjll♦udp pl|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+ sxjlu ♦udp pl|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+ !sxjlu♦udp pl|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+ sxjlu ♦udp pl|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+ !sxjlu♦udp pl|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+ sxjld ♦udp pl|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+ !sxjld♦udp pl|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+
+
+  sxjrr ♦udp pr|macro:wow:startturnright ♦ ☗TriggerOnTrue
+ !sxjrr ♦udp pr|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+  sxjrl ♦udp pr|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+ !sxjrl ♦udp pr|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+  sxjru ♦udp pr|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+ !sxjru ♦udp pr|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+  sxjru ♦udp pr|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+ !sxjru ♦udp pr|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+  sxjrd ♦udp pr|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+ !sxjrd ♦udp pr|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+
+
+  sxar ♦udp pc|macro:wow:startturnright ♦ ☗TriggerOnTrue
+ !sxar ♦udp pc|macro:wow:stopturnright ♦ ☗TriggerOnTrue
+  sxal ♦udp pc|macro:wow:startturnleft ♦ ☗TriggerOnTrue
+ !sxal ♦udp pc|macro:wow:stopturnleft ♦ ☗TriggerOnTrue
+  sxau ♦udp pc|macro:wow:startmoveforward ♦ ☗TriggerOnTrue
+ !sxau ♦udp pc|macro:wow:stopmoveforward ♦ ☗TriggerOnTrue
+  sxau ♦udp pc|macro:wow:startforwardenemy ♦ ☗TriggerOnTrue
+ !sxau ♦udp pc|macro:wow:stopforwardenemy ♦ ☗TriggerOnTrue
+  sxad ♦udp pc|macro:wow:startmovebackward ♦ ☗TriggerOnTrue
+ !sxad ♦udp pc|macro:wow:stopmovebackward ♦ ☗TriggerOnTrue
+//END: CLAIMED BUTTON FOR MOUVEMENT
+
+wow+sxjl ♦macro:wow:followleader ♦ ☗TriggerOnTrue
+
+wow+sXAU↓200 ♦udp all|macro:wow:collectbodies♦ ☗TriggerOnTrue
+wow+sXAL↓200 ♦macro:wow:validatequestall♦ ☗TriggerOnTrue
+//Some situation need to be set on a focus only and not an all
+
+
+//wow+sXBD♦macro:wow:usemountedshop♦ ☗TriggerOnTrue
+//wow+sXBL♦macro:wow:miningmountedrop♦ ☗TriggerOnTrue
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////JUST SOME CLASSIC CODE TO COPY PAST///////////
+//////START CLICKABLE////
+//wow:menupet0♦jomiraw:mm:0.2%:0.84%♦jomiraw:ms:l
+//wow:menupet1♦jomiraw:mm:0.225%:0.84%♦jomiraw:ms:l
+//wow:menupet2♦jomiraw:mm:0.257%:0.84%♦jomiraw:ms:l
+//wow:menupet3♦jomiraw:mm:0.284%:0.84%♦jomiraw:ms:l
+//wow:menupet4♦jomiraw:mm:0.311%:0.84%♦jomiraw:ms:l
+//wow:menupet5♦jomiraw:mm:0.34%:0.84%♦jomiraw:ms:l
+//wow:menupet6♦jomiraw:mm:0.365%:0.84%♦jomiraw:ms:l
+//wow:menupet7♦jomiraw:mm:0.4%:0.84%♦jomiraw:ms:l
+//wow:menupet8♦jomiraw:mm:0.425%:0.84%♦jomiraw:ms:l
+//wow:menupet9♦jomiraw:mm:0.45%:0.84%♦jomiraw:ms:l
+//
+//wow:menupage0 ♦jomiraw:mm:0.157%:0.9%♦jomiraw:ms:l
+//wow:menupage1 ♦jomiraw:mm:0.188%:0.9%♦jomiraw:ms:l
+//wow:menupage2 ♦jomiraw:mm:0.219%:0.9%♦jomiraw:ms:l
+//wow:menupage3 ♦jomiraw:mm:0.249%:0.9%♦jomiraw:ms:l
+//wow:menupage4 ♦jomiraw:mm:0.278%:0.9%♦jomiraw:ms:l
+//wow:menupage5 ♦jomiraw:mm:0.311%:0.9%♦jomiraw:ms:l
+//wow:menupage6 ♦jomiraw:mm:0.337%:0.9%♦jomiraw:ms:l
+//wow:menupage7 ♦jomiraw:mm:0.370%:0.9%♦jomiraw:ms:l
+//wow:menupage8 ♦jomiraw:mm:0.400%:0.9%♦jomiraw:ms:l
+//wow:menupage9 ♦jomiraw:mm:0.430%:0.9%♦jomiraw:ms:l
+//wow:menupage10♦jomiraw:mm:0.450%:0.9%♦jomiraw:ms:l
+//wow:menupage11♦jomiraw:mm:0.490%:0.9%♦jomiraw:ms:l
+//
+//wow:menudown0 ♦jomiraw:mm:0.157%:0.95%♦jomiraw:ms:l
+//wow:menudown1 ♦jomiraw:mm:0.188%:0.95%♦jomiraw:ms:l
+//wow:menudown2 ♦jomiraw:mm:0.219%:0.95%♦jomiraw:ms:l
+//wow:menudown3 ♦jomiraw:mm:0.249%:0.95%♦jomiraw:ms:l
+//wow:menudown4 ♦jomiraw:mm:0.278%:0.95%♦jomiraw:ms:l
+//wow:menudown5 ♦jomiraw:mm:0.311%:0.95%♦jomiraw:ms:l
+//wow:menudown6 ♦jomiraw:mm:0.337%:0.95%♦jomiraw:ms:l
+//wow:menudown7 ♦jomiraw:mm:0.370%:0.95%♦jomiraw:ms:l
+//wow:menudown8 ♦jomiraw:mm:0.400%:0.95%♦jomiraw:ms:l
+//wow:menudown9 ♦jomiraw:mm:0.430%:0.95%♦jomiraw:ms:l
+//wow:menudown10♦jomiraw:mm:0.45%:0.95%♦jomiraw:ms:l
+//wow:menudown11♦jomiraw:mm:0.49%:0.95%♦jomiraw:ms:l
+//
+//
+//wow:menurightleft0♦jomiraw:mm:0.955%:0.3%♦jomiraw:ms:l
+//wow:menurightleft1♦jomiraw:mm:0.955%:0.35%♦jomiraw:ms:l
+//wow:menurightleft2♦jomiraw:mm:0.955%:0.39%♦jomiraw:ms:l
+//wow:menurightleft3♦jomiraw:mm:0.955%:0.45%♦jomiraw:ms:l
+//wow:menurightleft4♦jomiraw:mm:0.955%:0.5%♦jomiraw:ms:l
+//wow:menurightleft5♦jomiraw:mm:0.955%:0.55%♦jomiraw:ms:l
+//wow:menurightleft6♦jomiraw:mm:0.955%:0.58%♦jomiraw:ms:l
+//wow:menurightleft7♦jomiraw:mm:0.955%:0.65%♦jomiraw:ms:l
+//wow:menurightleft8♦jomiraw:mm:0.955%:0.70%♦jomiraw:ms:l
+//wow:menurightleft9♦jomiraw:mm:0.955%:0.75%♦jomiraw:ms:l
+//wow:menurightleft10♦jomiraw:mm:0.955%:0.8%♦jomiraw:ms:l
+//wow:menurightleft11♦jomiraw:mm:0.955%:0.85%♦jomiraw:ms:l
+//
+//wow:menurightright0♦jomiraw:mm:0.985%:0.3%♦jomiraw:ms:l
+//wow:menurightrightl♦jomiraw:mm:0.985%:0.35%♦jomiraw:ms:l
+//wow:menurightright2♦jomiraw:mm:0.985%:0.4%♦jomiraw:ms:l
+//wow:menurightright3♦jomiraw:mm:0.985%:0.45%♦jomiraw:ms:l
+//wow:menurightright4♦jomiraw:mm:0.985%:0.5%♦jomiraw:ms:l
+//wow:menurightright5♦jomiraw:mm:0.985%:0.55%♦jomiraw:ms:l
+//wow:menurightright6♦jomiraw:mm:0.985%:0.6%♦jomiraw:ms:l
+//wow:menurightright7♦jomiraw:mm:0.985%:0.65%♦jomiraw:ms:l
+//wow:menurightright8♦jomiraw:mm:0.985%:0.7%♦jomiraw:ms:l
+//wow:menurightright9♦jomiraw:mm:0.985%:0.75%♦jomiraw:ms:l
+//wow:menurightright10♦jomiraw:mm:0.985%:0.8%♦jomiraw:ms:l
+//wow:menurightright11♦jomiraw:mm:0.985%:0.85%♦jomiraw:ms:l
+//
+//
+//
+//
+//wow:bagl2r0♦jomiraw:mm:0.884%:0.93%:♦jomiraw:ms:l
+//wow:bagl2r1♦jomiraw:mm:0.905%:0.93%:♦jomiraw:ms:l
+//wow:bagl2r2♦jomiraw:mm:0.931%:0.93%:♦jomiraw:ms:l
+//wow:bagl2r3♦jomiraw:mm:0.956%:0.93%:♦jomiraw:ms:l
+//wow:bagl2r4♦jomiraw:mm:0.980%:0.93%:♦jomiraw:ms:l
+//wow:bagmain♦jomiraw:mm:0.980%:0.93%:♦jomiraw:ms:l
+//wow:bagall♦macro:wow:bagl2r0♦macro:wow:bagl2r1♦macro:wow:bagl2r2♦macro:wow:bagl2r3♦macro:wow:bagl2r4♦
+//
+//
+//wow:avatarplayer♦jomiraw:mm:0.031%:0.07%♦jomiraw:ms:l
+//wow:avatargroup0♦jomiraw:mm:0.031%:0.25%♦jomiraw:ms:l
+//wow:avatargroup1♦jomiraw:mm:0.031%:0.37%♦jomiraw:ms:l
+//wow:avatargroup2♦jomiraw:mm:0.031%:0.40%♦jomiraw:ms:l
+//wow:avatargroup3♦jomiraw:mm:0.031%:0.48%♦jomiraw:ms:l
+//wow:avatarpetplayer♦jomiraw:mm:0.053%:0.125%♦jomiraw:ms:l
+//wow:avatarpetgroup0♦jomiraw:mm:0.053%:0.270%♦jomiraw:ms:l
+//wow:avatarpetgroup1♦jomiraw:mm:0.053%:0.340%♦jomiraw:ms:l
+//wow:avatarpetgroup2♦jomiraw:mm:0.053%:0.400%♦jomiraw:ms:l
+//wow:avatarpetgroup3♦jomiraw:mm:0.053%:0.490%♦jomiraw:ms:l
+//
+//
+//wow:menubutton0♦jomiraw:mm:0.795%:0.97%♦jomiraw:ms:l
+//wow:menubutton1♦jomiraw:mm:0.814%:0.97%♦jomiraw:ms:l
+//wow:menubutton2♦jomiraw:mm:0.834%:0.97%♦jomiraw:ms:l
+//wow:menubutton3♦jomiraw:mm:0.854%:0.97%♦jomiraw:ms:l
+//wow:menubutton4♦jomiraw:mm:0.872%:0.97%♦jomiraw:ms:l
+//wow:menubutton5♦jomiraw:mm:0.891%:0.97%♦jomiraw:ms:l
+//wow:menubutton6♦jomiraw:mm:0.910%:0.97%♦jomiraw:ms:l
+//wow:menubutton7♦jomiraw:mm:0.929%:0.97%♦jomiraw:ms:l
+//wow:menubutton8♦jomiraw:mm:0.949%:0.97%♦jomiraw:ms:l
+//wow:menubutton9♦jomiraw:mm:0.966%:0.97%♦jomiraw:ms:l
+//wow:menubutton10♦jomiraw:mm:0.986%:0.97%♦jomiraw:ms:l
+//wow:menuinfolayer♦macro:wow:menubutton0
+//wow:menuspell♦macro:wow:menubutton1
+//wow:menuskill♦macro:wow:menubutton2
+//wow:menuarchivement♦macro:wow:menubutton3
+//wow:menuquest♦macro:wow:menubutton4
+//wow:menuguild♦macro:wow:menubutton5
+//wow:menugroup♦macro:wow:menubutton6
+//wow:menucollection♦macro:wow:menubutton7
+//wow:menuguide♦macro:wow:menubutton8
+//wow:menushop♦macro:wow:menubutton9
+//wow:menusetting♦macro:wow:menubutton10
+//wow:menumap♦jomiraw:mm:0.989%:0.016%♦jomiraw:ms:l
+//
+//
+//
+//////END CLICKABLE////
+//
+//
+//
+//
+//
+////BOT MANAGEMENT MOVE START//
+//wow:dispersion♦udp PL|jomi: VK_PAGE_UP↓  ⌛1000 VK_PAGE_UP↑ ♦UDP PR|jomi:VK_PAGE_Down↓  ⌛1000 VK_PAGE_DOWN↑
+//wow:startdispersion♦udp PL|jomi: VK_PAGE_UP↓  ♦UDP PR|jomi:VK_PAGE_Down↓
+//wow:stopdispersion♦udp PL|jomi: VK_PAGE_UP↑ VK_Right↓  ⌛200 VK_Right↑ ♦UDP PR|jomi:VK_PAGE_DOWN↑ VK_Left↓  ⌛200 VK_Left↑
+//wow:moveback♦udp PL|jomi:VK_Down↓  ⌛1000 VK_Down↑♦UDP PR|jomi:VK_Down↓  ⌛1000 VK_Down↑
+//wow:dontreport♦udp PL|jomi: VK_PAGE_UP↓  ⌛400 VK_PAGE_UP↑ VK_UP↓  ⌛1000 VK_Up↓♦UDP PR|jomi:VK_PAGE_Down↓  ⌛400 VK_PAGE_DOWN↑  VK_Up↓  ⌛1000 VK_UP↓
+//
+//
+//
+////BOT MANAGEMENT MOVE END//
+//
+//
+//
+//
+//
+//wow:turnabitleft♦jomi:VK_Left↓ ⌛200 VK_Left↑
+//wow:selectnearenemy♦jomi:VK_INSERT↓ VK_INSERT↑
+//wow:petattack♦jomi:F1
+//wow:collectdeath ♦ jomimacro:collectmoney
+//wow:sellallbags ♦ jomimacro:sellallbags
+//wow:petfollow♦jomi:F2
+//wow:brainlessspamattack♦jomi:0↓ 0↑ ⌛200 1↓ 1↑ ⌛200 2↓ 2↑ ⌛200 3↓ 3↑ ⌛200 4↓ 4↑ ⌛200 5↓ 5↑ ⌛200 6↓ 6↑ ⌛200 7↓ 7↑ ⌛200 8↓ 8↑ ⌛200 9↓ 9↑ ⌛200 L↓ L↑ ⌛200 M↓ M↑ 
+//wow:selectandattack♦macro:wow:selectnearenemy♦macro:wow:petattack♦In 100|macro:wow:brainlessspamattack 
+//wow:petfetch♦macro:wow:petattack♦In 10.0|macro:wow:petbringback 
+//
+////////NETWORK//////
+//wow:brainlessattackall♦udp all|jomi: 0↓ 0↑ ⌛200 1↓ 1↑ ⌛200 2↓ 2↑ ⌛200 3↓ 3↑ ⌛200 4↓ 4↑ ⌛200 5↓ 5↑ ⌛200 6↓ 6↑ ⌛200 7↓ 7↑ ⌛200 8↓ 8↑ ⌛200 9↓ 9↑ ⌛200 L↓ L↑ ⌛200 M↓ M↑ 
+//wow:selectenemyall♦udp all|jomi:z↓ z↑
+//wow:acceptmissionall♦udp all|jomiraw:mm:0.1%:0.4%♦udp all|jomiraw:ms:l
+//wow:jumpall♦udp all|jomi:space↓ space↑
+//wow:followleader♦udp all|jomiraw:mm:0.04%:0.25%♦udp all|jomiraw:ms:l♦udp all|jomi:r↓ r↑
+////www:followall♦udp all|jomi:r↓ r↑
+//wow:hourseall♦udp all|jomi:f1↓ f1↑
+//
+//wow:deleteselectobject♦jomiraw:ms:l♦jomiraw:mm:0.45%:0.3%♦jomiraw:ms:l♦jomiraw:mm:0.45%:0.3%♦In 200|jomiraw:ms:l
+//
+//
+//wow:selectandbrainlessattackall♦macro:wow:selectenemyall♦macro:wow:brainlessattackall
+//wow:startlooping♦loop:on:lotsometimeall♦loop:on:brainlessattacksall
+//
+//
+////
+//wow:stoploops♦loop:off:lotsometimeall♦loop:off:brainlessattacksall
+//wow:startloopattackandlot♦loop:on:lotsometimeall♦loop:on:brainlessattacksall
+//
+////POWER
+//wow:power0♦jomi:0↓ 0↑
+//wow:power1♦jomi:1↓ 1↑
+//wow:power2♦jomi:2↓ 2↑
+//wow:power3♦jomi:3↓ 3↑
+//wow:power4♦jomi:4↓ 4↑
+//wow:power5♦jomi:5↓ 5↑
+//wow:power6♦jomi:6↓ 6↑
+//wow:power7♦jomi:7↓ 7↑
+//wow:power8♦jomi:8↓ 8↑
+//wow:power8♦jomi:9↓ 9↑
+//wow:powersup1♦jomi:j↓ j↑
+//wow:powersup2♦jomi:k↓ k↑
+//wow:altpower0♦jomi:NP0↓ NP0↑
+//wow:altpower1♦jomi:NP1↓ NP1↑
+//wow:altpower2♦jomi:NP2↓ NP2↑
+//wow:altpower3♦jomi:NP3↓ NP3↑
+//wow:altpower4♦jomi:NP4↓ NP4↑
+//wow:altpower5♦jomi:NP5↓ NP5↑
+//wow:altpower6♦jomi:NP6↓ NP6↑
+//wow:altpower7♦jomi:NP7↓ NP7↑
+//wow:altpower8♦jomi:NP8↓ NP8↑
+//wow:altpower9♦jomi:NP9↓ NP9↑
+//wow:altpowersup1♦jomi:L↓ L↑
+//wow:altpowersup2♦jomi:M↓ M↑
+//
+//wow:powerdownright0♦jomi:W↓ W↑
+//wow:powerdownright1♦jomi:X↓ X↑
+//wow:powerdownright2♦jomi:C↓ C↑
+//wow:powerdownright3♦jomi:V↓ V↑
+//wow:powerdownright4♦jomi:B↓ B↑ 
+//wow:powerdownright5♦jomi:N↓ N↑
+//wow:altpowerdownright0♦jomi:Q↓ Q↑
+//wow:altpowerdownright1♦jomi:S↓ S↑
+//wow:altpowerdownright2♦jomi:D↓ D↑
+//wow:altpowerdownright3♦jomi:F↓ F↑
+//wow:altpowerdownright4♦jomi:G↓ G↑
+//wow:altpowerdownright5♦jomi:H↓ H↑
+//
+//
+//wow:rightbar0♦jomi:F0↓ F0↑ 
+//wow:rightbar1♦jomi:F1↓ F1↑
+//wow:rightbar2♦jomi:F2↓ F2↑
+//wow:rightbar3♦jomi:F3↓ F3↑
+//wow:rightbar4♦jomi:F4↓ F4↑
+//wow:rightbar5♦jomi:F5↓ F5↑
+//wow:rightbar6♦jomi:F6↓ F6↑
+//wow:rightbar7♦jomi:F7↓ F7↑
+//wow:rightbar8♦jomi:F8↓ F8↑
+//wow:rightbar9♦jomi:F9↓ F9↑
+//wow:rightbar10♦jomi:F10↓ F10↑
+//wow:rightbar11♦jomi:F11↓ F11↑
+//wow:rightbar12♦jomi:F12↓ F12↑
+////wow:altbar0♦jomi:ctrl+NP0
+////wow:altbar1♦jomi:ctrl+NP1
+////wow:altbar2♦jomi:ctrl+NP2
+////wow:altbar3♦jomi:ctrl+NP3
+////wow:altbar4♦jomi:ctrl+NP4
+////wow:altbar5♦jomi:ctrl+NP5
+////wow:altbar6♦jomi:ctrl+NP6
+////wow:altbar7♦jomi:ctrl+NP7
+////wow:altbar8♦jomi:ctrl+NP8
+////wow:altbar9♦jomi:ctrl+NP9
+////wow:altbarsup1♦jomi:ctrl+NPSub
+////wow:altbarsup2♦jomi:ctrl+NPAdd
+//
+//
+//
+///// Move
+//
+//wow:startmoveforward♦jomi:VK_UP↓ 
+//wow:stopmoveforward♦jomi:VK_UP↑ 
+//wow:startmovebackward♦jomi:VK_DOWN↓ 
+//wow:stopmovebackward♦jomi:VK_DOWN↑ 
+//
+//wow:startmoveleft♦jomi:VK_PAGE_UP↓ 
+//wow:stopmoveleft♦jomi:VK_PAGE_UP↑ 
+//wow:startturnleft♦jomi:VK_LEFT↓ 
+//wow:stopturnleft♦jomi:VK_LEFT↑ 
+//
+//wow:startmoveright♦jomi:VK_PAGE_DOWN↓ 
+//wow:stopmoveright♦jomi:VK_PAGE_DOWN↑ 
+//wow:startturnright♦jomi:VK_RIGHT↓ 
+//wow:stopturnright♦jomi:VK_RIGHT↑ 
+//wow:jump♦jomi:space↓ space↑ 
+//wow:startjump♦jomi:space↓  
+//wow:stopjump♦jomi:space↑ 
+//
+//
+//
+////selection
+//
+//wow:forwardenemy♦jomi:E↓ E↑ 
+//wow:startforwardenemy♦jomi:E↓  
+//wow:stopforwardenemy♦jomi:E↑ 
+//wow:nearenemy♦jomi:ctrl+E ctrl+E 
+//
+//wow:nearally♦jomi:T↓ T↑
+//wow:follow♦jomi:F↓ F↑ 
+//
+//
+//// classic
+//wow:map♦jomi:m↓ m↑
+//wow:quest♦jomi:q↓ q↑ 
+//wow:powebook♦jomi:s↓ s↑ 
+//wow:inventory♦jomi:i↓ i↑ 
+//wow:equipment♦jomi:k↓ k↑ 
+//wow:equipmentandbag♦jomi:k↓ k↑ i↓ i↑ 
+//
+//
+//
+//
+///// JOMI macro
+////wow:slow360♦jomimacro:
+////wow:fast360♦ jomimacro:
+////wow:instant360♦jomimacro: 
+//wow:collectbodies♦jomimacro:spamclickcenter 
+//wow:validatequestall♦udp all|jomiraw:mm:0.05%:0.78%♦udp all|jomiraw:ms:l
+//wow:validatequest♦jomiraw:mm:0.05%:0.78%♦udp all|jomiraw:ms:l
+////wow:validatequest♦jomimacro:spamclickquest
+//
+//
+//
+////VIEW
+//wow:nextview♦jomi:VK_INSERT↓ VK_INSERT↑ 
+//wow:previousview♦jomi:VK_DELETE↓ VK_DELETE↑ 
+//
+//
+//
+//
+//wow:openshop♦ jomiraw:mm:0.985%:0.825%♦jomiraw:ms:l

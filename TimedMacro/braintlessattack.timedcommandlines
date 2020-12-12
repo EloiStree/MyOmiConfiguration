@@ -1,0 +1,27 @@
+☗name Send to all connected pc to attack in loop
+☗callid wow:brainlessattackall
+☗description 
+100♦udp all|jomiraw:mm:0.32%:0.97%
+200♦udp all|jomiraw:ms:l
+300♦udp all|jomiraw:mm:0.34%:0.97%
+400♦udp all|jomiraw:ms:l
+600♦udp all|jomiraw:mm:0.36%:0.97%
+700♦udp all|jomiraw:ms:l
+800♦udp all|jomiraw:mm:0.38%:0.97%
+900♦udp all|jomiraw:ms:l
+1000♦udp all|jomiraw:mm:0.40%:0.97%
+1100♦udp all|jomiraw:ms:l
+1200♦udp all|jomiraw:mm:0.42%:0.97%
+1300♦udp all|jomiraw:ms:l
+1400♦udp all|jomiraw:mm:0.44%:0.97%
+1500♦udp all|jomiraw:ms:l
+1600♦udp all|jomiraw:mm:0.46%:0.97%
+1700♦udp all|jomiraw:ms:l
+1800♦udp all|jomiraw:mm:0.48%:0.97%
+1900♦udp all|jomiraw:ms:l
+2000♦udp all|jomiraw:mm:0.50%:0.97%
+2100♦udp all|jomiraw:ms:l
+2200♦udp all|jomiraw:mm:0.52%:0.97%
+2300♦udp all|jomiraw:ms:l
+2400♦udp all|jomiraw:mm:0.54%:0.97%
+2500♦udp all|jomiraw:ms:l

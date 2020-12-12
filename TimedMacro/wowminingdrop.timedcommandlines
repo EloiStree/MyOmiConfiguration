@@ -1,0 +1,12 @@
+☗name Use mounted shop of wow
+☗callid wow:miningmountedrop
+☗description 
+0♦jomiraw:mm:0.99%:0.74%
+20♦jomiraw:ms:l
+//600♦udp pl|macro:wow:followleader
+//600♦udp pr|macro:wow:followleader
+800♦macro:wow:followleader
+1200♦udp pr|jomi: VK_Up↓ ⌛200 VK_Up↑
+1200♦udp pl|jomi: VK_Up↓ ⌛200 VK_Up↑
+1600♦udp pl|macro:wow:collectbodies
+1600♦udp pr|macro:wow:collectbodies

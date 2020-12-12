@@ -1,0 +1,21 @@
+☗name Use mounted shop of wow
+☗callid wow:usemountedshop
+☗description 
+//00♦udp pl|macro:wow:followleader
+//00♦udp pr|macro:wow:followleader
+0♦macro:wow:followleader
+000♦jomiraw:mm:0.99%:0.74%
+050♦jomiraw:ms:l
+1900♦jomiraw:mm:0.9317%:0.25%
+1950♦jomiraw:mp:r
+2100♦jomiraw:mr:r
+2200♦jomiraw:mm:0.9317%:0.28%
+2270♦jomiraw:ms:l
+2320♦jomiraw:mm:0.9125%:0.25%
+2350♦jomiraw:mp:r
+2500♦jomiraw:mr:r
+2550♦jomiraw:mm:0.9125%:0.28%
+2600♦jomiraw:ms:l
+3000♦udp pl|macro:wow:collectbodies
+3000♦udp pr|macro:wow:collectbodies
+
