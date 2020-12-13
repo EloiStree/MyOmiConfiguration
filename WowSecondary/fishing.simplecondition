@@ -1,0 +1,10 @@
+
+
+wow+!fishingcooldown+readytofish+FishingSound↓1000♦macro:wow:stopfishing ♦ ☗TriggerOnTrue
+wow+!fishingcooldown+readytofish+FishingSound↓1000♦In 1000|loop:restart:fishingloop ♦ ☗TriggerOnTrue
+
+wow+readytofish♦loop:on:fishingloop♦☗TriggerOnTrue 
+wow+readytofish♦loop:off:fishingloop♦☗TriggerOnFalse 
+
+wow+pause♦bool:readytofish:false♦ ☗TriggerOnTrue
+wow+shift+pause♦bool:readytofish:true♦ ☗TriggerOnTrue

@@ -1,2 +1,0 @@
-﻿MsgBox, Escape!!!!
-return

@@ -1,7 +1,0 @@
-
-ninja + ctrl ♦x360:jlr:1.0♦☗TriggerOnTrue
-ninja + !ctrl ♦x360:jlr:0.0♦☗TriggerOnTrue
-ninja + shift ♦x360:jlu:1.0♦☗TriggerOnTrue
-ninja + !shift ♦x360:jlu:0.0♦☗TriggerOnTrue
-ninja + space ♦x360:jll:1.0♦☗TriggerOnTrue
-ninja + !space ♦x360:jll:0.0♦☗TriggerOnTrue

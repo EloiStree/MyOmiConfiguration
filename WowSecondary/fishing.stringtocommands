@@ -1,0 +1,12 @@
+⌛ ➤ ☗ | ↓ ↑
+wow:stopfishing♦mouseutility:gridclick:fishingzone:7:7:2♦macro:wow:fishingcooldown
+wow:startfishing♦jomiraw:mm:0.991%:0.53%♦jomiraw:ms:l♦macro:wow:fishingcooldown
+
+wow:stopandstartfishing♦macro:wow:stopfishing♦In 1000|jomiraw:mm:0.5:0.5♦In 5000|macro:wow:startfishing
+
+wow:fishingcooldown♦bool:fishingcooldown:true♦In 5000|bool:fishingcooldown:false
+
+
+
+
+
