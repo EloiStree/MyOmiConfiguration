@@ -1,0 +1,92 @@
+//⌛ ➤ ☗ | ↓ ↑ ♦
+//.screenlocations
+Center♦rlbt♦0.5♦0.5
+CornerBotLeft♦0.01♦0.01
+CornerTopRight♦1.0♦1.0
+CenterScreenZone♦0.3♦0.3♦0.7♦0.7
+MainScreen♦0.01♦0.01♦0.99♦0.99
+menupet0♦0.2♦0.84
+menupet1♦0.225♦0.84
+menupet2♦0.257♦0.84
+menupet3♦0.284♦0.84
+menupet4♦0.311♦0.84
+menupet5♦0.34♦0.84
+menupet6♦0.365♦0.84
+menupet7♦0.4♦0.84
+menupet8♦0.425♦0.84
+menupet9♦0.45♦0.84
+menupage0 ♦0.32♦0.983
+menupage1 ♦0.34♦0.983
+menupage2 ♦0.36♦0.983
+menupage3 ♦0.38♦0.983
+menupage4 ♦0.40♦0.983
+menupage5 ♦0.42♦0.983
+menupage6 ♦0.44♦0.983
+menupage7 ♦0.46♦0.983
+menupage8 ♦0.48♦0.983
+menupage9 ♦0.50♦0.983
+menupage10♦0.52♦0.983
+menupage11♦0.54♦0.983
+menudown0 ♦0.32♦0.924
+menudown1 ♦0.34♦0.924
+menudown2 ♦0.36♦0.924
+menudown3 ♦0.38♦0.924
+menudown4 ♦0.40♦0.924
+menudown5 ♦0.42♦0.924
+menudown6 ♦0.44♦0.924
+menudown7 ♦0.46♦0.924
+menudown8 ♦0.48♦0.924
+menudown9 ♦0.50♦0.924
+menudown10♦0.52♦0.924
+menudown11♦0.54♦0.924
+menurightleft0♦0.969♦0.35
+menurightleft1♦0.969♦0.38
+menurightleft2♦0.969♦0.42
+menurightleft3♦0.969♦0.45
+menurightleft4♦0.969♦0.48
+menurightleft5♦0.969♦0.51
+menurightleft6♦0.969♦0.53
+menurightleft7♦0.969♦0.55
+menurightleft8♦0.969♦0.60
+menurightleft9♦0.969♦0.65
+menurightleft10♦0.969♦0.70
+menurightleft11♦0.969♦0.75
+menurightright0♦0.991♦0.35
+menurightrightl♦0.991♦0.38
+menurightright2♦0.991♦0.42
+menurightright3♦0.991♦0.45
+menurightright4♦0.991♦0.48
+menurightright5♦0.991♦0.51
+menurightright6♦0.991♦0.53
+menurightright7♦0.991♦0.55
+menurightright8♦0.991♦0.60
+menurightright9♦0.991♦0.65
+menurightright10♦0.991♦0.70
+menurightright11♦0.991♦0.75
+bagl2r0♦0.924♦0.95
+bagl2r1♦0.940♦0.953
+bagl2r2♦0.955♦0.953
+bagl2r3♦0.972♦0.953
+bagl2r4♦0.988♦0.953
+bagmain♦0.988♦0.953
+avatarplayer♦0.031♦0.07
+avatargroup0♦0.031♦0.25
+avatargroup1♦0.031♦0.37
+avatargroup2♦0.031♦0.40
+avatargroup3♦0.031♦0.48
+avatarpetplayer♦0.053♦0.125
+avatarpetgroup0♦0.053♦0.270
+avatarpetgroup1♦0.053♦0.340
+avatarpetgroup2♦0.053♦0.400
+avatarpetgroup3♦0.053♦0.490
+menubutton0♦0.795♦0.97
+menubutton1♦0.814♦0.97
+menubutton2♦0.834♦0.97
+menubutton3♦0.854♦0.97
+menubutton4♦0.872♦0.97
+menubutton5♦0.891♦0.97
+menubutton6♦0.910♦0.97
+menubutton7♦0.929♦0.97
+menubutton8♦0.949♦0.97
+menubutton9♦0.966♦0.97
+menubutton10♦0.986♦0.97
