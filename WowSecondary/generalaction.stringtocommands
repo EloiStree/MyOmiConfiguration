@@ -149,11 +149,11 @@ wow:petfetch♦macro:wow:petattack♦In 10.0|macro:wow:petbringback
 
 //////NETWORK//////
 //wow:brainlessattackall♦udp all|jomi: 0↓ 0↑ ⌛200 1↓ 1↑ ⌛200 2↓ 2↑ ⌛200 3↓ 3↑ ⌛200 4↓ 4↑ ⌛200 5↓ 5↑ ⌛200 6↓ 6↑ ⌛200 7↓ 7↑ ⌛200 8↓ 8↑ ⌛200 9↓ 9↑ ⌛200 L↓ L↑ ⌛200 M↓ M↑ 
-wow:selectenemyall♦udp all|jomi:z↓ z↑
+wow:selectenemyall♦udptofocus spammer|jomi:z↓ z↑
 
 wow:acceptmissionall♦udp all|jomiraw:mm:0.0276%:0.506%♦udp all|jomiraw:ms:l
 wow:jumpall♦udp all|jomi:space↓ space↑
-wow:followleader♦udp all|jomiraw:mm:0.021%:0.15%♦udp all|jomiraw:ms:l♦udp all|jomi:r↓ r↑
+wow:followleader♦udp followleader|jomiraw:mm:0.021%:0.15%♦udp all|jomiraw:ms:l♦udp all|jomi:r↓ r↑
 //www:followall♦udp all|jomi:r↓ r↑
 wow:hourseall♦udp all|jomiraw:mm:0.97%:0.34%♦udp all|jomiraw:ms:l
 
