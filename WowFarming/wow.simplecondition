@@ -6,17 +6,25 @@ wow + spamhealandbonus♦ stack:doandgonext:healstack ♦ ☗LoopOnTrue 200
 
 wow+NPAdd♦boolswitch:spamattack♦ ☗TriggerOnTrue
 wow + spamattack♦ stack:doandgonext:attackstack ♦ ☗LoopOnTrue 200
+wow + spamattack♦ jomi:tab↓ tab↑ ♦ ☗LoopOnTrue 1000
 
 wow+NPMulti♦boolswitch:collectaround♦ ☗TriggerOnTrue
 wow + collectaround♦ mouseutility:gridclick:lotzone:10:10:5♦ ☗LoopOnTrue 10000
+
+
+
+wow+NPDiv♦boolswitch:selectthehorizon ♦ ☗TriggerOnTrue
+wow + selectthehorizon♦ mouseutility:gridclick:horizon:20:10:10♦ ☗LoopOnTrue 10000
 
 wow+NPDiv♦boolswitch:selectthehorizon ♦ ☗TriggerOnTrue
 wow + selectthehorizon♦ mouseutility:gridclick:horizon:20:10:10♦ ☗LoopOnTrue 10000
 
 
 wow+NPPoint♦boolswitch:turnaround ♦ ☗TriggerOnTrue
-//wow + turnaround♦ jomi: VK_Left↓ ⌛100  VK_Left↑ ♦ ☗LoopOnTrue 500
-wow + turnaround♦ jomi: VK_up↓ ⌛1000  VK_up↑ ⌛100 VK_down↓ ⌛1520  VK_down↑ ♦ ☗LoopOnTrue 2500
+wow + turnaround♦ jomi: VK_Left↓ ⌛100  VK_Left↑ ♦ ☗LoopOnTrue 500
+//wow + turnaround♦ jomi: VK_up↓ ⌛1000  VK_up↑ ⌛100 VK_down↓ ⌛1520  VK_down↑ ♦ ☗LoopOnTrue 2500
+
+
 footld♦bool:playersecondary:true ♦ ☗TriggerOnTrue
 footlt♦bool:playermain:true ♦ ☗TriggerOnTrue
 footld♦bool:playersecondary:false ♦ ☗TriggerOnFalse
